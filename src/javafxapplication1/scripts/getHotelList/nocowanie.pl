@@ -13,11 +13,6 @@ $mech->get( $site );
 sleep 1;
 
 my $file = "nocowanie_$ARGV[0]";
-my $filehtml = "$file.html";
-my $filetxt = "$file.txt";
+my $filehtml = "$file.txt";
 
 $mech->save_content($filehtml);
-
-open FILE, ">$filetxt" or die $!;
-print FILE $mech->text();
-close FILE;
