@@ -1,6 +1,7 @@
 ##skrypt wyciągający liste hoteli dla danej miejscowosci
 
 ##http://www.nocowanie.pl/
+use utf8;
 use strict;
 use warnings;
 
