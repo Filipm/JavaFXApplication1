@@ -2,6 +2,10 @@
 Hotel TOPAZ
 
  
+	http://www.nocowanie.pl/noclegi/poznan/apartamenty/30667/
+Apartamenty w Poznaniu ZASYPIAM.PL -...
+
+ 
 	http://www.nocowanie.pl/noclegi/poznan/hotele/102899/
 Traffic Hotel & Hostel
 
@@ -10,8 +14,8 @@ Traffic Hotel & Hostel
 Hostel Poznań Petit
 
  
-	http://www.nocowanie.pl/noclegi/poznan/apartamenty/30667/
-Apartamenty w Poznaniu ZASYPIAM.PL -...
+	http://www.nocowanie.pl/noclegi/poznan/pensjonaty/58017/
+
 
  
 	http://www.nocowanie.pl/noclegi/poznan/kwatery_i_pokoje/33002/
@@ -50,6 +54,10 @@ Silver Point
 Pokoje gościnne u Ani
 
  
+	http://www.nocowanie.pl/noclegi/poznan/apartamenty/122353/
+Apartamenty Głogowska 65 centrum
+
+ 
 	http://www.nocowanie.pl/noclegi/poznan/kwatery_i_pokoje/64173/
 Noclegi , Pokoje gościnne ZIELONY DOMEK
 
@@ -68,13 +76,5 @@ Tani nocleg blisko Targów
  
 	http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/
 Dom Gościnny  Pod Brzozami 
-
- 
-	http://www.nocowanie.pl/noclegi/poznan/pensjonaty/84878/
-Villa Hof
-
- 
-	http://www.nocowanie.pl/noclegi/poznan/kwatery_i_pokoje/63602/
-Noclegi-Maćkowiak
 
  

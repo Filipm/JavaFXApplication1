@@ -1,4 +1,4 @@
-﻿open(FILE, '>', 'result.txt' ) or die "Nie można otworzyć pliku: $!";
+﻿open(FILE, '>', 'linki.txt' ) or die "Nie można otworzyć pliku: $!";
 
 while($linia = <>) {
 

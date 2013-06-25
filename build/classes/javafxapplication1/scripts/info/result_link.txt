@@ -1,0 +1,1013 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+<meta name="Language" content="pl"/>
+<title>Dom Gościnny &quot; Pod Brzozami &quot; Poznań, Dom Gościnny &quot; Pod Brzozami &quot; w Poznaniu</title>
+<meta name="title" content="Dom Gościnny &quot; Pod Brzozami &quot; Poznań, Dom Gościnny &quot; Pod Brzozami &quot; w Poznaniu"/>
+<meta name="description" content="Dom Gościnny "Pod Brzozami" dysponuje kilkunastoma elegancko umeblowanymi pokojami o r&oacute;żnej strukturze zakwaterowania. Każdy pok&oacute;j posiada łazienkę (WC, prysznic) oraz TV Sat. Na piętrze znajduje się do dyspozycji gości ..."/>
+<meta name="keywords" content="Dom Gościnny &quot; Pod Brzozami &quot;, Poznań, Pensjonaty, pensjonat, w Poznaniu"/> 
+<meta name="rating" content="general"/>
+<meta name="revisit-after" content="1 Day"/>
+<meta name="robots" content="index,follow,all"/>
+<link rel="shortcut icon" href="//d.nocowanie.pl/gfx/favicon.ico" type="image/x-icon"/>
+<link href="https://plus.google.com/102134030582214747563" rel="publisher" />
+<link rel="alternate" hreflang="en" href="http://www.nocowanie.eu/" />
+<link rel="alternate" hreflang="de" href="http://de.nocowanie.pl/" />
+<link rel="alternate" hreflang="cs" href="http://www.nocowanie.cz/" />
+<link rel="alternate" hreflang="sk" href="http://www.nocowanie.sk/" />
+<link rel='stylesheet' type='text/css' href='//d.nocowanie.pl/css/general.min-v5.css' media="screen,print" />
+<link rel="stylesheet" type="text/css" href="//d.nocowanie.pl/js/fancy/jquery.fancybox-1.3.4.css" />
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" src="//d.nocowanie.pl/js/general.min-v2.js"></script>
+</head>	
+<body>
+<div style="display: none;"><div style="display: none; width:0; height:0" id="fb-root"></div>
+<script type="text/javascript"> 
+var appId = "341606939255273"; var zdn = "0"; 
+(function(){
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol + '//connect.facebook.net/pl_PL/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+$(window).load(function(){
+fbApiInit = false; FB.init ({ appId : appId, status : false, cookie  : true, xfbml  : true, oauth  : true });
+FB.getLoginStatus(fbLoginStatus,true); function fbLoginStatus(response) { fbApiInit = true; if(response.status === 'connected') { if(zdn==1) wyswietlElemnetyFB(); } else {ukryjElementyFB(); } }  
+
+
+});
+</script>
+</div>	
+<center><div class='c_box_entry'><div id='bmone2n-1014.2.2.30'></div></div></center>
+<div id="top"> 
+<div id="wrap_1" class="clearfix">   
+<div class="clearfix">
+<ul class="lang_menu">
+	<li><a class="current" title="Polska" href="/">Polska</a></li>
+	<li><a class="" title="Słowacja" href="/slowacja/">Słowacja</a></li>
+	<li><a class="" title="Czechy" href="/czechy/">Czechy</a></li>
+</ul>     
+<div class="menu-c">
+<ul><li class="zmien-kraj"><a href="#">więcej<span></span></a></li></ul> 		 
+	<div style="width: 72px; display: none; left: 720px;" id="lista-jezykow" class="lista-panstw rad4">
+		<a href="http://www.nocowanie.eu" lang="en" hreflang="en" title="accommodation in Poland, hotels in Poland"><span class="lang-icon lang-icon-en"></span></a>	<a href="http://www.de.nocowanie.pl" lang="de" hreflang="de" title="Unterkünfte, Quartieren, Hotels, Gästehäuser- Hauptseite"><span class="lang-icon lang-icon-de"></span></a>		<a href="http://www.nocowanie.cz" lang="cs" hreflang="cs" title="noclehy, ubytovny, hotele, penzionáty - hlavní stránka"><span class="lang-icon lang-icon-cz"></span></a>	<a href="http://www.nocowanie.sk" lang="sk" hreflang="sk" title=""><span class="lang-icon lang-icon-sk"></span></a>	
+	</div>
+	<div style="display: none;" id="lista-panstw" class="lista-panstw rad4">
+	<ul>
+<li><a title="Austria" href="/austria/">Austria</a></li><li><a title="Bułgaria" href="/bulgaria/">Bułgaria</a></li><li><a title="Chorwacja" href="/chorwacja/">Chorwacja</a></li><li><a title="Czarnogóra" href="/czarnogora/">Czarnogóra</a></li><li><a title="Litwa" href="/litwa/">Litwa</a></li><li><a title="Węgry" href="/wegry/">Węgry</a></li><li><a title="Włochy" href="/wlochy/">Włochy</a></li>	</ul>
+	</div>	
+</div>
+<div style="float:right; margin-right: 10px;"><p class="zmien_jezyk" href="#">język <a href="#"><span class="lang-icon lang-icon-pl"></span><span class="arrow2"></span></a></p></div>
+</div>  		
+<script type="text/javascript">
+$('P.zmien_jezyk A').click(function(){
+	if ($('#lista-jezykow').is(':visible')) $('#lista-jezykow').fadeOut('fast');
+	else { $('#lista-panstw').fadeOut('fast', function(){ $('#lista-jezykow').fadeIn('fast'); }); }
+});
+$('LI.zmien-kraj A').click(function(){
+	if ($('#lista-panstw').is(':visible')) $('#lista-panstw').fadeOut('fast');
+	else { $('#lista-jezykow').fadeOut('fast', function(){ $('#lista-panstw').fadeIn('fast'); }); }
+});
+</script>	<div id="logo" style="margin-top: 12px;"><a href="http://www.nocowanie.pl"><img src="//d.nocowanie.pl/gfx/nnoc/nocowanie.gif" title="noclegi" alt="noclegi" style="width:234px;height:31px;" /></a></div>
+	<div id="menu_top"><ul>
+	
+		<li class="szukam_noclegu"><a href="http://www.nocowanie.pl/szukam_noclegu/" title="Szukam noclegu"><span>Szukam noclegu</span></a></li>
+		
+	<li class="mapa_polski"><a href="http://mapa.nocowanie.pl/" title="Mapa Polski"><span>Mapa Polski</span></a></li>
+	<li class="rozklad_jazdy"><a href="http://rozklady.nocowanie.pl/" title="Rozkłady jazdy"><span>Rozkłady jazdy</span></a></li>
+	<li class="kamery"><a href="http://kamery.nocowanie.pl/" title="Kamery internetowe"><span>Kamery internetowe</span></a></li>
+	<li class="pogoda"><a title="Pogoda" href="http://pogoda.nocowanie.pl/"><span>Pogoda</span></a></li>
+	</ul></div>   
+	<div id="fb"><div class="ubox">
+	
+
+	
+	<form name="login_form" id="login_form" method="post" action="https://secure.nocowanie.pl" style="width: 100%">
+		<input type="hidden" name="command" value="login_attempt" />
+		<p>
+			<input type="text" name="login" class="white_input" placeholder="login" />
+			<input type="password" name="password" class="white_input" placeholder="hasło" />
+			<input type="submit" class="blue_btn" value=">" alt="zaloguj się" />
+			
+		<span>lub</span>
+		<a class="fb_btn FBlogin2" href="#" >Połącz się przez Facebooka</a>
+		</p>
+		<p class="zap">
+			<a href="#" class="showHide" rel="forgotten_form">
+				zapomniałem hasła
+			</a>
+		</p>
+	</form>
+	
+	
+	<div id="forgotten_form" class="lista-panstw rad4" style="top: auto; left: auto; padding-top: 2px; display: none">
+		<p class="zap">
+			<a href="#" class="showHide" rel="forgotten_form">
+				twoje hasło zostanie wysłane na maila
+			</a>
+		<p>
+			
+		<div style="clear: both"></div>
+				
+		<form name="forgotten_form" id="" method="post">
+			<input type="hidden" name="command" value="forgotten_password" >
+			<input type="text" name="forgotten" class="white_input" placeholder="podaj login lub e-mail" style="width: 135px" />
+			<input type="submit" class="blue_btn" value=">"  />
+		</form>
+	</div>
+		
+<div style="clear: both"></div>
+
+</div>
+
+
+		<a class="add-offer rad4" href="http://www.nocowanie.pl/lokalizacje/rejestracja/?r=9"><span>Dodaj ofertę</span></a>
+
+	<div style="clear: both"></div>
+		
+</div>
+</div>
+<div id="breadcrumbs_content" xmlns:v="http://rdf.data-vocabulary.org/#"><ul>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/" title="Noclegi"  rel="v:url" property="v:title">Noclegi</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/" title="Noclegi Poznań"  rel="v:url" property="v:title">Noclegi Poznań</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/" title="Pensjonaty Poznań"  rel="v:url" property="v:title">Pensjonaty Poznań</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" title="Dom Gościnny &quot; Pod Brzozami &quot;" class="active_breadcrumb" rel="v:url" property="v:title">Dom Gościnny &quot; Pod Brzozami &quot;</a></li>
+</ul></div>
+ 
+<div id="search_wrapper"><div id="search_wrapper_content"> 
+<form id="search-form" method="get" action="/">
+	<div class="rad4">
+	<input type="hidden" name="command" value="search_location" />
+	<span name="q_old" style="display: none;">Poznań</span>
+	<input class="search_txt_input" name="q" type="text" value="Poznań" autocomplete="off" maxlength="30" />
+	<input class="szukaj_btn" type="submit" value="" />
+	</div>
+	
+	
+<script type="text/javascript">
+$(window).load(function(){
+	
+	$('#search-form INPUT[type=text]').podpowiedzi({ 
+		id_portalu	 : 1,
+		id_geografii : 381,
+		id_kategorii : false,
+		zmianaCallback : function(str, id_obiektu, id_geo){
+			$('#wyszukiwanie_zaawansowane [name="q"]').val(str);
+			$('#wyszukiwanie_zaawansowane [name="geo"]').val(id_geo);			
+		},
+		enterCallback : function(str, id_obiektu, id_geo, url){
+			$('#wyszukiwanie_zaawansowane [geo="q"]').val(str);
+			$('#wyszukiwanie_zaawansowane [name="geo"]').val(id_geo);
+			if ($('#search-form INPUT[type=text]').attr('url') && 
+				$('#search-form INPUT[type=text]').attr('url').length &&
+				!$('#search-form INPUT[name="kat[]"][type=checkbox]:checked').length &&
+				!$('#search-form INPUT[name="kat[]"][type=hidden]').length &&
+				(!$('#search-form INPUT[name="kat"]').length || !$('#search-form INPUT[name="kat"]').val().length) &&
+				(!$('#search-form INPUT[name="termin"]').length || !$('#search-form INPUT[name="termin"]').val().length) &&
+				(!$('#search-form INPUT[name="data[od]"]').length || !$('#search-form INPUT[name="data[od]"]').val().length) &&
+				(!$('#search-form INPUT[name="data[do]"]').length || !$('#search-form INPUT[name="data[do]"]').val().length) &&
+				(!$('#search-form SELECT[name="miejsca"]').length || $('#search-form SELECT[name="miejsca"]').val() == 0)
+				)
+					location.href = $('#search-form INPUT[type=text]').attr('url');
+				else
+					$('#search-form').submit();
+		},
+		selectCallback : function(str, id_obiektu, id_geo, url){
+			if (parseInt(id_obiektu) > 0)
+			{
+				location.href = url;
+				return false;
+			}
+			$('#search-form INPUT[name="data[od]"]').focus();
+			$('#wyszukiwanie_zaawansowane [geo="q"]').val(str);
+			$('#wyszukiwanie_zaawansowane [name="geo"]').val(id_geo);
+		},
+		flagi : {
+		}
+	});
+	
+			$('#search-form .szukaj_btn').click(function(e){
+			e.preventDefault();
+			$('#search-form INPUT[type=text]').data('podpowiedzi').select(false, true);	
+		});
+	});
+</script>
+	<input type="hidden" name="termin" value="" />
+<ul class="terminy">
+<li>
+<div id="tekst_domyslny" style="display:none;">dowolna kategoria</div>
+<div id="div-text-pseudo-select-id" class="div-text-pseudo-select rad4"><div id="inputKategorii" class="rad4">dowolna kategoria</div></div>
+<input type="hidden" class="rad4" name="kat"/>
+<div id="ajax-request-output"></div>
+<script type="text/javascript">
+$(document).ready(function() {
+$('#inputKategorii').kategorieWyszukiwarki({
+katImpl: "0",
+termId: "0",
+wyswietl_terminy: "1",
+tylko_istniejace: "0",
+pozostale_rozwinete: "0",
+terminy_rozwinete: "0",
+id_portalu: "1"
+});
+});
+</script>
+</li>
+	<li><input class="rad4" type="text" name="data[od]" id="sf_data_od" placeholder="Przyjazd" value="" autocomplete="off" maxlength="10" /></li>
+	<li><input class="rad4" type="text" name="data[do]" id="sf_data_do" placeholder="Wyjazd" value="" autocomplete="off" maxlength="10" /></li>
+	<li><select class="rad4" name="miejsca">
+	<option value="0">os.</option>
+	<option value="1" >1</option><option value="2" >2</option><option value="3" >3</option><option value="4" >4</option><option value="5" >5</option><option value="6" >6</option><option value="7" >7</option><option value="8" >8</option><option value="9" >9</option><option value="10" >10</option><option value="11" >11</option><option value="12" >12</option><option value="13" >13</option><option value="14" >14</option><option value="15" >15</option>	</select></li>
+</ul> 	    						
+<button type="submit" name="" value="" class="szukaj_btn blue_btn">Szukaj</button>
+</form> 	
+</div></div>
+<script type="text/javascript">
+$("#search-form INPUT[name=q]").attr('ostatnie', $("#search-form INPUT[name=q]").val());
+$("#search-form INPUT[name=q]").focus(function(){
+	$(this).val('');
+});
+$("#search-form INPUT[name=q]").blur(function(){
+	$(this).val($(this).attr('ostatnie'));
+});
+$(window).load(function(){
+	
+	$("#search-form INPUT[name='data[od]']").kalendarz("#search-form INPUT[name='data[do]']");
+	
+	});
+$(window).load(function(){    	
+	$("#search-form SELECT[name='kat']").change(function(){
+		$("#wyszukiwanie_zaawansowane INPUT[name='kat']").val($(this).val());
+		var element = $(this).find('option:selected'); 
+		$('#search-form [name="termin"]').val(element.attr("termid"));
+	});
+	$("#search-form INPUT[name='data[od]']").change(function(){
+		$("#wyszukiwanie_zaawansowane INPUT[name='data[od]']").val($(this).val());
+	});	
+	$("#search-form INPUT[name='data[do]']").change(function(){
+		$("#wyszukiwanie_zaawansowane INPUT[name='data[do]']").val($(this).val());
+	});	
+	$("#search-form SELECT[name='miejsca']").change(function(){
+		$("#wyszukiwanie_zaawansowane INPUT[name='miejsca']").val($(this).val());
+	});	
+	$('#search-form').submit(function(e){
+		if ($('#search-form [name="q"]').val() != $('SPAN[name="q_old"]').text()) {
+			$('#search-form [name="region"]').val(0);
+			$('#miasta_regionu').remove();
+		}	
+		$('SPAN[name="q_old"]').text('');
+		
+		$('#search-form [name="geo_str"]').val($('#search-form [name="q"]').val());	
+		
+	});
+});
+</script>
+
+
+</div> 
+
+		<div id="bottom_content" >
+
+	<div id="bottom_wrapper">
+		<script type="text/javascript">
+if ($.cookie('noc_search_ret'))
+{
+	var ret_link_cookie = $.parseJSON($.cookie('noc_search_ret'));
+	if (ret_link_cookie && 
+		(ret_link_cookie.id_geografii == 381 || 
+		 ret_link_cookie.region & 8388608))
+		document.write(ret_link_cookie.link);
+}
+</script>
+					
+													
+		<div class="nazwa_obiektu_box"  onClick="location.href='http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/';">
+
+				
+			
+						
+		  	<div class="obiekt">
+				<div class="obiekt-box">
+								<h1 class="nazwa_obiektu"  >Dom Gościnny &quot; Pod Brzozami &quot;</h1>&nbsp;<span>(Pensjonaty)</span>				<h2 class="adres"  ><span ><span >Brzozowa&nbsp;69</span> Poznań</span></h2>
+				</div>
+				
+				<div class="obiekt-box-2">
+																</div>
+			</div>
+		</div>  
+	</div>
+</div> 
+
+		
+	
+<div id="main_content"> 
+	<div class="menu_glowne">
+		<ul>
+					
+											
+			<li class="current"><a title="Opis Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/">Opis</a></li> 
+			<li ><a title="Zdjęcia Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/photos,79187.html#mini">Zdjęcia (21)</a></li>			<li ><a title="Opinie Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html">Opinie (0)</a></li>			<li ><a title="Mapa Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html">Mapa</a></li>			 
+			<li ><a title="Cennik Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html">Cennik</a></li> 
+											<li ><a class="new-icon" style="padding-right: 45px;" title="W pobliżu Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/w_poblizu.html">Okolica</a></li>				
+	                  
+		</ul>
+	</div> 
+	<div class="content rad4">
+		<div class="content_box clearfix">
+			<div id="left"> 
+			                     
+			  	<script type="text/javascript" src="http://d.nocowanie.pl/js/galeria.js"></script>
+
+
+				<div class="opis_box" itemscope itemtype="http://schema.org/Recipe">
+					<div class="foto_content" itemprop="name" content="Dom Gościnny &quot; Pod Brzozami &quot;">
+					 
+
+						<div class="foto" itemprop="prepTime" content="Zdjęcie: Dom Gościnny &quot; Pod Brzozami &quot;">
+													<img itemprop="image" onclick="showGallery('', 867955, 1, '/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 0, 79187);" 
+							src="//i.nocowanie.pl/img/zdj_po/d3/1320/112-poznan-dom-goscinny-pod.jpg" alt="Dom Gościnny &quot; Pod Brzozami &quot;"/>
+												</div>  
+						<div class="miniaturki_foto">
+							<ul class="gallery">						
+																																				<li>
+									<a href="#" title="Dom Gościnny &quot; Pod Brzozami &quot;" onclick="showGallery('', 867951, 1, '/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 0, 79187);">
+										<img src="//i.nocowanie.pl/m3/1320/108-poznan-dom-goscinny-pod.jpg" alt="Dom Gościnny &quot; Pod Brzozami &quot;" />
+									</a>
+								</li>      
+																													<li>
+									<a href="#" title="Dom Gościnny &quot; Pod Brzozami &quot;" onclick="showGallery('', 867952, 1, '/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 0, 79187);">
+										<img src="//i.nocowanie.pl/m3/1320/109-poznan-dom-goscinny-pod.jpg" alt="Dom Gościnny &quot; Pod Brzozami &quot;" />
+									</a>
+								</li>      
+																													<li>
+									<a href="#" title="Dom Gościnny &quot; Pod Brzozami &quot;" onclick="showGallery('', 867953, 1, '/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 0, 79187);">
+										<img src="//i.nocowanie.pl/m3/1320/110-poznan-dom-goscinny-pod.jpg" alt="Dom Gościnny &quot; Pod Brzozami &quot;" />
+									</a>
+								</li>      
+																													<li>
+									<a href="#" title="Dom Gościnny &quot; Pod Brzozami &quot;" onclick="showGallery('', 867954, 1, '/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 0, 79187);">
+										<img src="//i.nocowanie.pl/m3/1320/111-poznan-dom-goscinny-pod.jpg" alt="Dom Gościnny &quot; Pod Brzozami &quot;" />
+									</a>
+								</li>      
+																																																																																																																																																																																																																																															
+							</ul>
+						</div>
+						<div class="zdjecie_od_nocowanie">
+													<a class="zdjecie_od_nocowanie_btn" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/photos,79187.html">
+							<span>zdjęcia od Nocowanie.pl (21)</span></a>
+												</div>
+					</div> 
+					<div class="dane_box">
+												<div class="rating_box" xmlns:v="http://rdf.data-vocabulary.org/#" >
+							<div class="stars">
+								<span class="op-turystow">Opinie turystów</span>
+								<div class="big-stars" style="cursor: pointer;" title="Zobacz szczegółowe opinie" onClick="location.href='http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html';"> 
+																		<div></div>
+									<div style="width: 0%;"></div>
+									<div></div>
+								</div>
+								<span class="rating" ><a  href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html" title="Zobacz szczegółowe opinie">(ocena <span >0</span> / <span >5</span>, <span >0</span> opinii)</a></span>
+							</div>
+								   						<div >
+	      						<span ><span ></span></span>
+	   						</div>	
+	   												</div> 
+																			<div class="spr-box"><span class="spr-przez-noc">Sprawdzony przez Nocowanie.pl</span> <div class="spr spr_pl"><script type="text/javascript">$(window).load(function() {	$('.spr').mouseenter(function() {	$('.tooltip').show();	});	$('.spr').mouseleave(function() {	$('.tooltip').hide();	});	});</script><div class="pytajnik"><div><div class="tooltip" style="display: none;"><div><p>Obiekt sprawdzony wg kryteriów:</p><ul><li>Był tutaj nasz przedstawiciel handlowy</li>	<li>Obiekt posiada zdjęcia od Nocowanie.pl</li>		<li>Klient serwisu Nocowanie.pl od 2011-07-14</li></ul></div><span class="arrow-tooltip"></span> </div> </div> </div><div class="scale"><div class="orange-f"></div> <div class="orange-f"></div> <div class="orange-f"></div> <div ></div> </div> </div></div>
+												<div class="buttons_box">
+							<div class="chmurka_telefon" id="chmurka_telefon" style="display: none;" onClick="$(this).css('display','none');">
+								<div>
+																		<p>tel. stacjonarny <span>(+48) 505 158 566</span></p>								</div>
+							</div>                            
+    						
+							<a class="zadzwon_btn blue_btn" style="margin-left:70px;" ><span>&nbsp;</span> Zadzwoń</a>
+															<a class="rezerwuj_zapytaj_btn red_btn" href="#rezerwuj">Rezerwuj/zapytaj <span>&nbsp;</span></a>
+													</div>
+						 
+						<div class="ilosc_miejsc_box">
+							<p>ilość miejsc</p> 
+																																															
+							<div class="inline">28&nbsp;(12&nbsp;pokoi)</div>
+						</div>
+																		<div class="ilosc_miejsc_box">  
+							<p>ceny od</p>
+														<div class="inline">50.00 PLN <a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html">(zobacz cennik)</a></div>
+						</div>
+						 
+												<div class="telefon_kom_box">
+							<p>telefon</p>
+							 
+							<div class="tel_btn" id="telskr" onclick="$('#telskr').css('display','none');$('#telwid').css('display','inline');$('#telinfo').css('color','#FF6E00');$('#telinfo').css('font-weight','bold'); $.ajax('/files/ajax/phonenum_inc_counter.php?id_lokalizacji=79187');">505... wyświetl numer</div>
+														<span id="telwid" style="display: none;cursor: default;">&nbsp;&nbsp;&nbsp;(+48) 505 158 566</span>
+							<div id="telinfo" style="color: #717171; font: 11px Arial; padding: 10px 0px 0px 60px;">Powiedz: Ofertę znalazłem w serwisie NOCOWANIE.PL</div>
+						</div> 
+																								<div class="piktogramy_box">
+							<p>standard</p>
+							<ul>
+														  																<li class="pikt1" title="łazienka"></li>
+															  	
+														  																<li class="pikt2" title="telewizor"></li>
+															  	
+														  																<li class="pikt6" title="parking"></li>
+															  	
+														  																<li class="pikt7" title="kuchnia"></li>
+															  	
+														  																<li class="pikt10" title="konferencje"></li>
+															  	
+														  																<li class="pikt17" title="akceptujemy karty płatnicze"></li>
+															  	
+														  																<li class="pikt24" title="pokój dzienny"></li>
+															  	
+														  																<li class="pikt25" title="internet"></li>
+															  	
+														</ul>
+						</div>
+												
+					</div>             
+				</div>
+				<div class="txt_box">
+													<div id="opis_skrot">
+						<p></p>
+						<p>   Dom Gościnny "Pod Brzozami"  dysponuje kilkunastoma elegancko umeblowanymi pokojami o r&oacute;żnej strukturze zakwaterowania. Każdy pok&oacute;j posiada łazienkę (WC, prysznic) oraz TV Sat.   Na piętrze znajduje się do dyspozycji gości kuchnia&nbsp; (pełne wyposażenie).    Budynek znajduje się niedaleko centrum miasta i Targ&oacute;w Poznańskich w spokojnej i pełnej zieleni dzielnicy miasta Poznania.    Poza tym dla wszystkich gości na terenie obiektu działa nieodpłatnie bezprzewodowa,  internetowa sieć WiFi .       Oferowane pokoje:        6 pokoi jedno i dwuosobowych - dwa pojedyncze ł&oacute;żka    4 pokoje trzyosobowe - trzy pojedyncze ł&oacute;żka    2 apartamenty dwuosobowe - zestaw wypoczynkowy - aneks kuchenny, sala konferencyjna, pok&oacute;j telewizyjny z węzłem sanitarnym       Zapewniamy pełne bezpieczeństwo, kompleks jest monitorowany 24 godziny  na dobę, a nasi goście mogą korzystać z bezpłatnego parkingu lub miejsc garażowych.   Profesjonalna obsługa  zadba o...</p>				
+						<p class="read_more" onclick="$('#opis_skrot').css('display', 'none'); $('#opis_pelny').css('display', 'block');">PRZECZYTAJ CAŁĄ OFERTĘ</p>
+					</div>
+					
+					<div id="opis_pelny" style="display: none;">
+						<p></p>
+						<p><p style="text-align: justify;"><span style="font-family: georgia,palatino;"><strong>Dom Gościnny "Pod Brzozami"</strong> dysponuje kilkunastoma elegancko umeblowanymi pokojami o r&oacute;żnej strukturze zakwaterowania. Każdy pok&oacute;j posiada łazienkę (WC, prysznic) oraz TV Sat.<br /><br /><strong>Na piętrze znajduje się do dyspozycji gości kuchnia&nbsp;</strong>(pełne wyposażenie).</span></p><p style="text-align: justify;"><span style="font-family: georgia,palatino;">Budynek znajduje się niedaleko centrum miasta i Targ&oacute;w Poznańskich w spokojnej i pełnej zieleni dzielnicy miasta Poznania.</span><br /><span style="font-family: georgia,palatino;"><br />Poza tym dla wszystkich gości na terenie obiektu działa nieodpłatnie bezprzewodowa, <strong>internetowa sieć WiFi</strong>.</span></p><p style="text-align: justify;"><span style="font-family: georgia,palatino;"><br /><span style="text-decoration: underline;"><strong>Oferowane pokoje:</strong></span><br /></span></p><ul><li style="text-align: justify;"><span style="font-family: georgia,palatino;">6 pokoi jedno i dwuosobowych - dwa pojedyncze ł&oacute;żka</span></li><li style="text-align: justify;"><span style="font-family: georgia,palatino;">4 pokoje trzyosobowe - trzy pojedyncze ł&oacute;żka</span></li><li style="text-align: justify;"><span style="font-family: georgia,palatino;">2 apartamenty dwuosobowe - zestaw wypoczynkowy - aneks kuchenny, sala konferencyjna, pok&oacute;j telewizyjny z węzłem sanitarnym</span></li></ul><p style="text-align: justify;"><span style="font-family: georgia,palatino;"><br /><strong>Zapewniamy pełne bezpieczeństwo, kompleks jest monitorowany 24 godziny</strong> na dobę, a nasi goście mogą korzystać z bezpłatnego parkingu lub miejsc garażowych.<br /><br /><strong>Profesjonalna obsługa</strong> zadba o Państwa wygodę oraz zapewni doskonałe warunki do pracy i wypoczynku.</span></p></p>				
+						<p class="read_more" onclick="$('#opis_pelny').css('display', 'none'); $('#opis_skrot').css('display', 'block');">zwiń</p>
+											<div class="licznik_odwiedzin_lokalizacji">Liczba odwiedzin strony:&nbsp;<span id="licznik" style="display: inline">-</span>&nbsp;od&nbsp;<span id="licznik_od_kiedy">-</span>&nbsp;(dzisiaj&nbsp;<span id="licznik_dzisiaj">-</span>)</div>
+										</div>
+					
+								<div class="strona_www">
+					<p>strona www<a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/www,79187.html" target="_blank">www.podbrzozami.neostrada.pl</a></p>
+				</div>
+								</div>
+				
+<script type="text/javascript">				
+$('.zadzwon_btn').click(function(){
+	$('#chmurka_telefon').css('display','block');
+	$('#telinfo').css('color','#FF6E00');
+	$('#telinfo').css('font-weight','bold');
+	$.ajax('/files/ajax/phonenum_inc_counter.php?id_lokalizacji=79187');
+	return false;
+});
+$('#chmurka_telefon').click(function() {
+	return false;
+})
+$(document).click(function() { 
+	$('#chmurka_telefon').css('display','none');;
+});
+</script>	
+
+		  							
+					<div class="zapytaj_o_oferte_box rad4">
+<form method="post" id="service_booking_form2a" name="service_booking_form2a" action="zapytanie.html#rezerwuj">
+	<input type="hidden" name="data[od]" />
+	<input type="hidden" name="data[do]" />
+		
+	<div class="zapytaj_header rad4">
+		Zapytaj o ofertę	
+		<a name="rezerwuj" class="zwin" href="#">&nbsp;</a>
+	</div>
+	<div class="zapytaj_o_oferte_box_content">
+		<div class="form_left">
+			<div class="formRow">
+				<div class="label"><label for="name">Pobyt w dniach:</label></div>
+								<div class="field"><input type="text" name="od" id="od1" value="2013-06-25" class="txt white_input datepicker validate[required]"/></div>
+				<div class="label"><label for="name">do:</label></div>
+				<div class="field"><input type="text" name="do" id="do1" value="2013-06-25" class="txt white_input datepicker validate[required]"/></div>  
+			</div>
+			<div class="formRow"><textarea name="tresc" id="tresc1" onfocus="document.getElementById('evisualconfirm_image1').src='/files/evisualconfirm_image.php?r=' + Math.random(99999); document.getElementById('e_VCText1').value='';" rows="5" cols="50" class="validate[required]"></textarea></div> 
+			<div class="formRow">
+							<div class="label"><label for="name">kod z obrazka</label></div>
+				<div class="field"><input type="text" style="width: 70px;" id="e_VCText1" name="e_VCText" onKeyPress="var klawisz = getKeyCode(event); if(klawisz == 13) this.form.submit();" class="txt white_input validate[required]" /></div> 
+				<div class="field"><img id="evisualconfirm_image1" src="/files/evisualconfirm_image.php" alt="Jeżeli nie widzisz tego obrazka kliknij odśwież i spróbuj ponownie"  width="66" height="22" /></div> 
+				
+				<div class="field"><input type="submit" name="send" class="wyslij_btn gray_btn" value="Wyślij" /></div> 
+			</div>     
+		</div>
+		<div class="form_right">
+			<div class="formRow">
+				<label for="name" style="float:left;padding-top:6px;">ilość osób</label>
+				<div class="select_white rad4 p30" style="width:34px;float:left;margin-left:9px;margin-right:9px;">
+					<select name="ilosc_osob" style="width:62px;">
+						<option value="0">-</option>
+						  						<option value="1" >1</option>
+  						  						<option value="2" >2</option>
+  						  						<option value="3" >3</option>
+  						  						<option value="4" >4</option>
+  						  						<option value="5" >5</option>
+  						  						<option value="6" >6</option>
+  						  						<option value="7" >7</option>
+  						  						<option value="8" >8</option>
+  						  						<option value="9" >9</option>
+  						  						<option value="10" >10</option>
+  						  						<option value="11" >11</option>
+  						  						<option value="12" >12</option>
+  						  						<option value="13" >13</option>
+  						  						<option value="14" >14</option>
+  						  						<option value="15" >15</option>
+  											</select>
+			    </div>
+			    <label for="name" style="float:left;padding-top:6px;">ilość pokoi</label>
+			    <div class="select_white rad4 p30" style="width:34px;float:left;margin-left:9px;margin-right:9px;">
+					<select name="ilosc_pokoi" style="width:62px;">
+				  		<option value="0">-</option>
+				  		  						<option value="1" >1</option>
+  						  						<option value="2" >2</option>
+  						  						<option value="3" >3</option>
+  						  						<option value="4" >4</option>
+  						  						<option value="5" >5</option>
+  											  		
+					</select>
+			    </div>
+			</div>
+			<div class="formRow"><label for="name">imię i nazwisko</label></div>
+			<div class="formRow"><input type="text" class="white_input validate[required]" name="nazwisko" id="nazwisko1" value="" /></div>
+			<div class="formRow"><label for="name">telefon</label></div>
+			<div class="formRow"><input type="text" class="white_input validate[required,custom[phone]]" id="telefon1" name="telefon" value="" /></div>  
+			<div class="formRow"><label for="name">e-mail</label></div>
+			<div class="formRow"><input type="text" class="white_input validate[required,custom[email]]" id="email1" name="email" value="" /></div>   
+		</div>                         
+	</div>
+	<div id="adresy_email"></div>
+	<input type="hidden" value="1" name="form_etap" />
+	<input type="hidden" value="Dom Gościnny &quot; Pod Brzozami &quot;" name="lokal1_nazwa" />
+	<input type="hidden" value="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" name="lokal1_url" />
+	<input type="hidden" value="send_mail_to_location" name="command" />
+</form>	
+</div> 
+<script type="text/javascript">
+if ($('#search-form [name="data[od]"]').val())
+	$("#service_booking_form2a INPUT[name=od]").val($('#search-form [name="data[od]"]').val());
+if ($('#search-form [name="data[do]"]').val())
+	$("#service_booking_form2a INPUT[name=do]").val($('#search-form [name="data[do]"]').val());
+$(window).load(function(){
+	$("#service_booking_form2a INPUT[name=od]").kalendarz("#service_booking_form2a INPUT[name=do]");
+});
+</script>
+
+
+<script type="text/javascript">
+$(window).load(function() { 
+	$("form[name=service_booking_form2],form[name=service_booking_form2a]").validationEngine('attach',{scroll: false}); 
+	$("form[name=service_booking_form2],form[name=service_booking_form2a]").each(function(e){
+		var form = $(this);
+		form.find(".wyslij_btn").click(function(e){
+			e.preventDefault();
+			if(form.validationEngine('validate')){
+				$.fancybox.showActivity();
+				form.submit();
+			}
+		});
+	}
+)
+});
+
+$("#service_booking_form2, #service_booking_form2a").submit(function(e){
+	$(this).find('[name="data[od]"]').val($(this).find('[name="od"]').val());
+	$(this).find('[name="data[do]"]').val($(this).find('[name="do"]').val());
+	//$().kryteriaWyszukiwania('zapisz', $(this).find('[name="data[od]"], [name="data[do]"]').serialize(), 1);
+});
+</script>
+	
+												<h2 class="cennik_szczegolowy_title pasek_gray">Cennik szczegółowy</h2> 
+               
+<div class="cennik_box_violet rad4">
+	<div class="cennik_box_violet_content">          
+		             
+		<p class="ap_title">Apartament 2 osobowy (2)</p>     
+				                                                                                                          
+		<div class="pokoj_box rad4 shadow2">                          
+			<div class="pokoj_box_foto">
+				<a href="javascript:void(0);"  onclick="showGallery('', 873340, 1, 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 201801);"><img src="//i.nocowanie.pl/s4/11/193-poznan-dom-goscinny-pod.jpg" width="112" height="75" alt="img3"/></a>
+				<p class="wiecej_zdjec"><a href="javascript:void(0);" onclick="showGallery('', 873340, 1, 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 201801);">pokaż więcej zdjęć (6)</a></p>			</div>
+			<div class="opis_pokoju_box">
+				<ul> 
+					<li>za pokój <span>140 PLN</span></li> 
+					<li>za osobę <span>70 PLN</span></li> 
+				</ul>
+																<p class="opis_w_boxie">APARTAMENT 2 - OSOBOWY Z MOŻLIWOŚCIĄ WYKORZYSTANIA PRZEZ 1 OSOBĘ W CENIE 110 ZŁ. W OFERCIE TAKŻE POKOJE Z ŁÓŻKIEM MAŁŻEŃSKIM.</p>
+							</div>                                                                                            
+		</div> 
+						                                                                                                          
+		<div class="pokoj_box rad4 shadow2">                          
+			<div class="pokoj_box_foto">
+				<a href="javascript:void(0);"  onclick="showGallery('', 873341, 1, 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 201802);"><img src="//i.nocowanie.pl/s4/11/194-poznan-dom-goscinny-pod.jpg" width="112" height="75" alt="img3"/></a>
+				<p class="wiecej_zdjec"><a href="javascript:void(0);" onclick="showGallery('', 873341, 1, 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html', 'http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html', 1, 0, 201802);">pokaż więcej zdjęć (6)</a></p>			</div>
+			<div class="opis_pokoju_box">
+				<ul> 
+					<li>za pokój <span>140 PLN</span></li> 
+					<li>za osobę <span>70 PLN</span></li> 
+				</ul>
+																<p class="opis_w_boxie">APARTAMENT 2 - OSOBOWY Z MOŻLIWOŚCIĄ WYKORZYSTANIA PRZEZ 1 OSOBĘ W CENIE 110 ZŁ. W OFERCIE TAKŻE POKOJE Z ŁÓŻKIEM MAŁŻEŃSKIM.</p>
+							</div>                                                                                            
+		</div> 
+						<a class="pokaz_wszystkie_btn gray_btn" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html"><span>&nbsp;</span>pokaż wszystkie</a>                                             
+	</div>                                                               
+</div>
+
+										<div class="wokolicyWrapper ver2"><div class="atrakcje-box-title clearfix rad4"><p class="restaurant">Restauracje w okolicy</p><a class="ro-btn rad4 normal" href="#">zwiń</a><a class="rad4 zw-btn" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/w_poblizu.html">zobacz wszystkie</a>	<p id="rozwin-text" style="display: none;">rozwiń</p><p id="zwin-text" style="display: none;">zwiń</p></div><div class="atrakcje-box shadow3 rad4"><div class="rad4" ><a class="atrakcje-box-nazwa" title='Restauracja Capri' href="http://www.nocowanie.pl/noclegi/poznan/restauracje/110897/"><img src="//i.nocowanie.pl/s3/903/75-poznan-restauracja-capri.jpg" />	Restauracja Capri</a><span class="dystans">[437 m]</span></div><div class="rad4" ><a class="atrakcje-box-nazwa" title='Restauracja U Dąbka' href="http://www.nocowanie.pl/noclegi/poznan/restauracje/110946/"><img src="//i.nocowanie.pl/s3/905/32-poznan-restauracja-u-dabka.jpg" />	Restauracja U Dąbka</a><span class="dystans">[1.1 km]</span></div><div class="rad4" ><a class="atrakcje-box-nazwa" title='Restauracja Wiśniowy Sad' href="http://www.nocowanie.pl/noclegi/poznan/restauracje/110776/"><img src="//i.nocowanie.pl/s3/896/159-poznan-restauracja-wisniowy-sad.jpg" />	Restauracja Wiśniowy Sad</a><span class="dystans">[1.7 km]</span></div><div class="rad4" ><a class="atrakcje-box-nazwa" title='Omega Restaurant&Catering' href="http://www.nocowanie.pl/noclegi/poznan/restauracje/110652/"><img src="//i.nocowanie.pl/s3/891/51-poznan-omega-restaurant-catering.jpg" />	Omega Restaurant&Catering</a><span class="dystans">[2.3 km]</span></div></div> </div>
+		<div class="wokolicyWrapper ver2"><div class="atrakcje-box-title clearfix rad4"><p class="family">Atrakcje w okolicy</p><a class="ro-btn rad4 normal" href="#">zwiń</a><p id="rozwin-text" style="display: none;">rozwiń</p><p id="zwin-text" style="display: none;">zwiń</p></div><div class="atrakcje-box shadow3 rad4"><div class="rad4" ><a class="atrakcje-box-nazwa" title='Lodowisko Chwiałka - Poznań' href="http://www.nocowanie.pl/noclegi/poznan/lodowiska/66300/"><img src="//i.nocowanie.pl/s-3/67/98-poznan-lodowisko-chwialka-poznan.jpg" />	Lodowisko Chwiałka  Poznań</a><span class="dystans">[3.8 km]</span></div></div> </div>
+	<script type="text/javascript">$(window).load(function() {	$('.wokolicyWrapper').obiektyWPoblizu();	});</script>
+			
+			  			  
+			  			  <div class="blok radius_gray">
+	<h2 class="pasek_gray"><span>Zobacz także</span></h2>
+	<div class="txt">
+			<p class="okoliczne">Okoliczne noclegi:</p>
+		<p class="z">									<span><a href="http://www.nocowanie.pl/noclegi/grobla/" title="Noclegi Grobla" >Noclegi Grobla</a> [1 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/berdychowo/" title="Noclegi Berdychowo" >Noclegi Berdychowo</a> [2 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/pasieka_4/" title="Noclegi Pasieka" >Noclegi Pasieka</a> [2 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/ostrowo_5/" title="Noclegi Ostrowo" class="b">Noclegi Ostrowo</a> [2 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/bonin_3/" title="Noclegi Bonin" >Noclegi Bonin</a> [3 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/marczykowskie/" title="Noclegi Marczykowskie" >Noclegi Marczykowskie</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/nadolnik_2/" title="Noclegi Nadolnik" >Noclegi Nadolnik</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/baran/" title="Noclegi Baran" >Noclegi Baran</a> [5 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/stary_staw/" title="Noclegi Stary Staw" >Noclegi Stary Staw</a> [6 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/kozieglowy_2/" title="Noclegi Koziegłowy" class="b">Noclegi Koziegłowy</a> [6 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/olszak_2/" title="Noclegi Olszak" >Noclegi Olszak</a> [6 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/krolewskie/" title="Noclegi Królewskie" >Noclegi Królewskie</a> [6 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/bogucin_4/" title="Noclegi Bogucin" >Noclegi Bogucin</a> [7 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/antoninek/" title="Noclegi Antoninek" >Noclegi Antoninek</a> [7 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/lubon_2/" title="Noclegi Luboń" >Noclegi Luboń</a> [7 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/suchy_las_3/" title="Noclegi Suchy Las" class="b">Noclegi Suchy Las</a> [8 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/czerwonak/" title="Noclegi Czerwonak" class="b">Noclegi Czerwonak</a> [8 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/janikowo_2/" title="Noclegi Janikowo" >Noclegi Janikowo</a> [8 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/suchy_las/" title="Noclegi Suchy Las (pow. kolski)" >Noclegi Suchy Las (pow. kolski)</a> [8 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/przeszkoda_2/" title="Noclegi Przeszkoda" >Noclegi Przeszkoda</a> [8 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/skorzewo_3/" title="Noclegi Skórzewo" >Noclegi Skórzewo</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/miekowo_2/" title="Noclegi Miękowo" >Noclegi Miękowo</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/plewiska/" title="Noclegi Plewiska" >Noclegi Plewiska</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/kicin_2/" title="Noclegi Kicin" >Noclegi Kicin</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/gruszczyn/" title="Noclegi Gruszczyn" class="b">Noclegi Gruszczyn</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/przezmierowo/" title="Noclegi Przeźmierowo" class="b">Noclegi Przeźmierowo</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/swarzedz/" title="Noclegi Swarzędz" class="b">Noclegi Swarzędz</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/owinska/" title="Noclegi Owińska" class="b">Noclegi Owińska</a> [12 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/rosnowo/" title="Noclegi Rosnowo" class="b">Noclegi Rosnowo</a> [13 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/puszczykowo/" title="Noclegi Puszczykowo" class="b">Noclegi Puszczykowo</a> [14 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/rokietnica/" title="Noclegi Rokietnica" class="b">Noclegi Rokietnica</a> [17 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/mosina_3/" title="Noclegi Mosina" class="b">Noclegi Mosina</a> [19 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/kolatka/" title="Noclegi Kołatka" class="b">Noclegi Kołatka</a> [19 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/murowana_goslina/" title="Noclegi Murowana Goślina" class="b">Noclegi Murowana Goślina</a> [19 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/tarnowo_podgorne/" title="Noclegi Tarnowo Podgórne" class="b">Noclegi Tarnowo Podgórne</a> [19 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/steszew/" title="Noclegi Stęszew" class="b">Noclegi Stęszew</a> [20 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/kornik/" title="Noclegi Kórnik" class="b">Noclegi Kórnik</a> [21 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/czerlejno/" title="Noclegi Czerlejno" class="b">Noclegi Czerlejno</a> [21 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/pobiedziska/" title="Noclegi Pobiedziska" class="b">Noclegi Pobiedziska</a> [26 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/kazmierz/" title="Noclegi Kaźmierz" class="b">Noclegi Kaźmierz</a> [26 km]</span>
+					</p>
+		
+		<p class="info-miasto"> informacje <span id="okoliczne_strzalka" class="strzalka dol" style="top: 0px;">&nbsp;</span></p>
+		<p class="l k" id="okoliczne_info" style="display: none;">
+			<a href="" title="Szukam noclegu ">Szukam noclegu </a>
+						<a href="				//noclegi//mapa/" title=" mapa">
+				Mapa 			</a>
+											
+																								
+						<a href="http://www.nocowanie.pl/noclegi/poznan/restauracje/" title="Restauracje ">Restauracje</a>
+			
+																		
+						<a href="http://www.nocowanie.pl/noclegi/poznan/turystyka_aktywna/" title="Wypoczynek aktywny ">Wypoczynek aktywny</a>
+			
+																																																																																																												
+						<a href="http://www.nocowanie.pl/noclegi/poznan/zwiedzanie_czas_wolny/" title="Warto zobaczyć ">Warto zobaczyć</a>
+			
+																	
+						
+		</p>
+		
+					<br/>
+			<p class="info-miasto">Poznań typy usług <span id="typy-uslug-arrow" class="strzalka dol" style="top: 0px;">&nbsp;</span></p>
+			<p class="l k" id="typy-uslug-info" style="display: none;">
+			
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-osobowy/" title="Apartament 2 osobowy Poznań">Apartament 2 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament_2-pokojowy_1-osobowy/" title="Apartament 2-pokojowy 1-osobowy Poznań">Apartament 2-pokojowy 1-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament_2-pokojowy_2-osobowy/" title="Apartament 2-pokojowy 2-osobowy Poznań">Apartament 2-pokojowy 2-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-3-osobowy/" title="Apartament 2-pokojowy 3-osobowy Poznań">Apartament 2-pokojowy 3-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-4-osobowy/" title="Apartament 2-pokojowy 4-osobowy Poznań">Apartament 2-pokojowy 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-5-osobowy/" title="Apartament 2-pokojowy 5-osobowy Poznań">Apartament 2-pokojowy 5-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-osobowy/" title="Apartament 3 osobowy Poznań">Apartament 3 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-4-osobowy/" title="Apartament 3-pokojowy 4-osobowy Poznań">Apartament 3-pokojowy 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-5-osobowy/" title="Apartament 3-pokojowy 5-osobowy Poznań">Apartament 3-pokojowy 5-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-6-osobowy/" title="Apartament 3-pokojowy 6-osobowy Poznań">Apartament 3-pokojowy 6-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-4-osobowy/" title="Apartament 4 osobowy Poznań">Apartament 4 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-5-osobowy/" title="Apartament 5 osobowy Poznań">Apartament 5 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-6-osobowy/" title="Apartament 6 osobowy Poznań">Apartament 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/domek-3-osobowy/" title="Domek 3 osobowy Poznań">Domek 3 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/domek-6-osobowy/" title="Domek 6 osobowy Poznań">Domek 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/oplata-za-zwierzeta/" title="Opłata za zwierzęta Poznań">Opłata za zwierzęta</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-1-osobowy-z-lazienka/" title="Pokój 1 osobowy z łazienką Poznań">Pokój 1 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-1-osobowy/" title="Pokój 1-osobowy Poznań">Pokój 1-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-10-osobowy/" title="Pokój 10 osobowy Poznań">Pokój 10 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-12-osobowy/" title="Pokój 12 osobowy Poznań">Pokój 12 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy-typ-studio/" title="Pokój 2 osobowy typ studio Poznań">Pokój 2 osobowy typ studio</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy-z-lazienka/" title="Pokój 2 osobowy z łazienką Poznań">Pokój 2 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy/" title="Pokój 2-osobowy Poznań">Pokój 2-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-3-osobowy-z-lazienka/" title="Pokój 3 osobowy z łazienką Poznań">Pokój 3 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-3-osobowy/" title="Pokój 3-osobowy Poznań">Pokój 3-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-4-osobowy-z-lazienka/" title="Pokój 4 osobowy z łazienką Poznań">Pokój 4 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-4-osobowy/" title="Pokój 4-osobowy Poznań">Pokój 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-5-osobowy/" title="Pokój 5 osobowy Poznań">Pokój 5 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-6-osobowy/" title="Pokój 6 osobowy Poznań">Pokój 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-7-osobowy/" title="Pokój 7 osobowy Poznań">Pokój 7 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-8-osobowy/" title="Pokój 8 osobowy Poznań">Pokój 8 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/poznan/dostawka/" title="dostawka Poznań">dostawka</a>
+							</p>
+				
+	</div>
+</div>
+<script type="text/javascript">
+(function($){
+	$('#okoliczne_strzalka').click(function(){
+		var $this = $(this);
+		if ($('#okoliczne_info').is(':visible'))
+		{
+			$('#okoliczne_info').hide('blind', function(){
+				$this.removeClass('gora').addClass('dol');	
+			});
+		}
+		else
+		{
+			$('#okoliczne_info').show('blind', function(){
+				$this.removeClass('dol').addClass('gora');	
+			});
+		}
+	});
+	
+	$('#typy-uslug-arrow').click(function(){
+		var $this = $(this);
+		if ($('#typy-uslug-info').is(':visible'))
+		{
+			$('#typy-uslug-info').hide('blind', function(){
+				$this.removeClass('gora').addClass('dol');	
+			});
+		}
+		else
+		{
+			$('#typy-uslug-info').show('blind', function(){
+				$this.removeClass('dol').addClass('gora');	
+			});
+		}
+	});	
+})(jQuery);	
+</script>	
+	  
+			                  
+			</div>
+			<div id="right">
+				
+<div id="koszyk_margines">
+<span id="gn_koszyk"></span>
+</div>
+
+		<script type="text/javascript"> 
+$(window).load(function() { if (!$.cookie('cookie_klauzula')) { $('#cookie_klauzula').show(); $.cookie('cookie_klauzula', 1 , {   domain: '.nocowanie.pl',  expires: 365, path: '/' } ); } }); </script>
+<div id="cookie_klauzula" style="display: none;"><a href="http://www.nocowanie.pl/polityka-cookies-2.html" title="Polityka cookies"><img src="//d.nocowanie.pl/gfx/cookie_klauzula/nocowanie_300.jpg" /></a></div>
+
+	 
+		
+	<div class="obiekt_social_prawa_kol">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{ lang: 'pl'}</script>
+				<div style="margin-right: 4px;" class="fb-like" data-href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" data-layout="button_count" data-send="false" data-width="150" data-show-faces="false"></div><g:plusone href="http://www.nocowanie.pl" size="medium"></g:plusone>
+				<a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/druk,1.html" onclick='windowprops = "width=750,scrollbars=yes"; window.open($(this).attr("href"), "", windowprops); return false;' class="obiekt_print" rel=”nofollow”>Drukuj</a>
+	</div>
+				
+			
+		<div class="zapytaj_o_oferte_right_box pasek_gray">
+<form method="post" id="service_booking_form2" name="service_booking_form2" action="zapytanie.html#rezerwuj">
+	<input type="hidden" name="data[od]" />
+	<input type="hidden" name="data[do]" />
+		<h2 class="rad4 zapytaj_header">Zapytaj o ofertę</h2>
+	<div class="content_zapytaj_box">
+		<div class="column_row"> 
+			<div class="label_two"><label for="name">Pobyt w dniach:</label></div>
+		</div>
+		<div class="column_row">    
+			                                    
+			<div class="field_two"><input type="text" name="od" id="od" value="2013-06-25" class="maly white_input datepicker validate[required]"  /></div>
+			<div class="label_two"><label style="padding: 0px 6px 0px 25px;" for="name">do:</label></div>
+			<div class="field_two"><input type="text" name="do" id="do" value="2013-06-25" class="maly white_input datepicker validate[required]"  /></div>
+		</div>
+		<div class="column_row">                                        
+			<textarea name="tresc" id="tresc" onfocus="document.getElementById('evisualconfirm_image').src='/files/evisualconfirm_image.php?r=' + Math.random(99999); document.getElementById('e_VCText').value='';" class="mala validate[required]"></textarea>                  
+		</div>     
+		<div class="column_row">                                                             
+			<div class="label_two odstep" style="width:auto;">
+			    <label for="name">ilość osób</label>
+			</div>
+			<div class="field_two">
+				<div class="select_white rad4 p30" style="width:40px;">
+					<select name="ilosc_osob" style="width:62px;">
+				  		<option value="0">-</option>
+				  		  						<option value="1" >1</option>
+  						  						<option value="2" >2</option>
+  						  						<option value="3" >3</option>
+  						  						<option value="4" >4</option>
+  						  						<option value="5" >5</option>
+  						  						<option value="6" >6</option>
+  						  						<option value="7" >7</option>
+  						  						<option value="8" >8</option>
+  						  						<option value="9" >9</option>
+  						  						<option value="10" >10</option>
+  						  						<option value="11" >11</option>
+  						  						<option value="12" >12</option>
+  						  						<option value="13" >13</option>
+  						  						<option value="14" >14</option>
+  						  						<option value="15" >15</option>
+  											</select>
+			    </div>
+			</div>
+			<div class="label_two odstep" style="width:auto; margin-left:23px;">
+				<label for="name">ilość pokoi</label>
+			</div>
+			<div class="field_two">
+				<div class="select_white rad4 p30" style="width:40px;">
+					<select name="ilosc_pokoi" style="width:62px;">
+				  		<option value="0">-</option>
+				  		  						<option value="1" >1</option>
+  						  						<option value="2" >2</option>
+  						  						<option value="3" >3</option>
+  						  						<option value="4" >4</option>
+  						  						<option value="5" >5</option>
+  										  		
+					</select>
+				</div>	
+			</div>
+		</div>
+		<div class="column_row">                                                             
+			<div class="label_two odstep"><label for="name">imię i nazwisko</label></div>
+			<div class="field_two"><input type="text" name="nazwisko" id="nazwisko" value="" class="duzy white_input validate[required]" /></div>
+		</div>   
+		<div class="column_row">                                                             
+			<div class="label_two odstep"><label for="name">telefon</label></div>
+			<div class="field_two"><input type="text" id="telefon" name="telefon" class="duzy white_input validate[required,custom[phone]]" value="" /></div>
+		</div>   
+		<div class="column_row">  
+			<div class="label_two odstep"><label for="name">e-mail</label></div>
+			<div class="field_two"><input type="text" id="email" name="email" value="" class="duzy white_input validate[required,custom[email]]" /></div>
+		</div>   
+		<div class="column_row"> 
+					<div class="label_two"><label for="name">kod z obrazka</label></div>
+				</div>   
+		<div class="column_row"> 
+						<div style="margin-right: 10px;" class="field_two"><input type="text" id="e_VCText" name="e_VCText" onKeyPress="var klawisz = getKeyCode(event); if(klawisz == 13) this.form.submit();" class="kod_z_obrazka white_input validate[required]" /></div>
+			<div style="margin-right: 10px;" class="field_two"><img id="evisualconfirm_image" src="/files/evisualconfirm_image.php" alt="Jeżeli nie widzisz tego obrazka kliknij odśwież i spróbuj ponownie"  width="66" height="22" /></div>
+						<div class="field_two fr"><input type="submit" name="send" class="wyslij_btn gray_btn" value="Wyślij" /></div>
+		</div>   
+	</div> 
+	<input type="hidden" value="1" name="form_etap" />
+	<input type="hidden" value="Dom Gościnny &quot; Pod Brzozami &quot;" name="lokal1_nazwa" />
+	<input type="hidden" value="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" name="lokal1_url" />
+	<input type="hidden" value="send_mail_to_location" name="command" />	
+</form>	
+</div>
+<script type="text/javascript">
+if ($('#search-form [name="data[od]"]').val())
+	$("#service_booking_form2 INPUT[name=od]").val($('#search-form [name="data[od]"]').val());
+if ($('#search-form [name="data[do]"]').val())
+	$("#service_booking_form2 INPUT[name=do]").val($('#search-form [name="data[do]"]').val());
+$(window).load(function(){
+	$("#service_booking_form2 INPUT[name=od]").kalendarz("#service_booking_form2 INPUT[name=do]");
+});
+</script>
+
+
+<script type="text/javascript">
+$(window).load(function() { 
+	$("form[name=service_booking_form2],form[name=service_booking_form2a]").validationEngine('attach',{scroll: false}); 
+	$("form[name=service_booking_form2],form[name=service_booking_form2a]").each(function(e){
+		var form = $(this);
+		form.find(".wyslij_btn").click(function(e){
+			e.preventDefault();
+			if(form.validationEngine('validate')){
+				$.fancybox.showActivity();
+				form.submit();
+			}
+		});
+	}
+)
+});
+
+$("#service_booking_form2, #service_booking_form2a").submit(function(e){
+	$(this).find('[name="data[od]"]').val($(this).find('[name="od"]').val());
+	$(this).find('[name="data[do]"]').val($(this).find('[name="do"]').val());
+	//$().kryteriaWyszukiwania('zapisz', $(this).find('[name="data[od]"], [name="data[do]"]').serialize(), 1);
+});
+</script>
+	
+		
+	<div id='bmone2n-1014.1.1.36'></div>
+<div id='bmone2n-1014.2.1.36'></div>
+	
+	                  
+
+			<div class="box_mapa">
+		<h2 class="pasek_gray">Zobacz gdzie jesteśmy<a class="box_head rad4" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html">zobacz mapę</a></h2>                       
+		<div class="box_mapa_content">
+	
+	<a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html" style="display: block;" title="mapa Dom Gościnny &quot; Pod Brzozami &quot;">
+	<div id="map" class="default_map" style="background: url('http://d.nocowanie.pl/gfx/nnoc/default_map_1.jpg') no-repeat; width:300px;height:200px;font-family:tahoma,arial,helvetica,sans-serif;font-size:12px;color:#565656;"></div>
+	</a>	
+		</div>                                 
+	
+	</div>              
+	     
+    	<div class="dispbl mt10 cb"></div>
+	 
+	
+	
+	
+                     
+			</div>
+		</div> 
+	</div>
+</div>
+
+		 <div id="footer_content">
+<div class="blue_footer"><div class="blue_footer_content">
+	<a href="http://www.nocowanie.pl/info/polityka_prywatosci,10781,id,10781.html" class="stronainflink" >Polityka prywatności</a> |
+<a href="http://www.nocowanie.pl/polityka-cookies-2.html" class="stronainflink" >Polityka cookies</a> |
+<a href="http://www.nocowanie.pl/info/strony_www,9778,id,9778.html" class="stronainflink" >Darmowe strony WWW</a> |
+<a href="http://www.nocowanie.pl/info/regulaminy,610,id,610.html" class="stronainflink" >Regulaminy</a> |
+<a href="http://www.nocowanie.pl/info/sesja_fotograficzna_od_nocowanie_pl,15075,id,15075.html" class="stronainflink" >Sesja fotograficzna</a> |
+<a href="http://www.nocowanie.pl/info/dla_prasy,9597,id,9597.html" class="stronainflink" >Dla prasy</a> |
+<a href="http://www.nocowanie.pl/info/dolacz_do_nocowanie_pl,15076,id,15076.html" class="stronainflink" >Dlaczego NOCOWANIE.PL?</a> |
+<a href="http://www.nocowanie.pl/info/cennik,615,id,615.html" class="stronainflink" >Cennik</a> |
+<a href="http://www.nocowanie.pl/info/wspolpraca,7347,id,7347.html" class="stronainflink" >Współpraca</a> |
+<a href="http://www.nocowanie.pl/info/patronat_medialny,7275,id,7275.html" class="stronainflink" >Patronat medialny</a> |
+<a href="http://www.nocowanie.pl/info/reklama,648,id,648.html" class="stronainflink" >Reklama</a> |
+<a href="http://www.nocowanie.pl/info/o_nas,616,id,616.html" class="stronainflink" >O nas</a> |
+<a href="http://www.nocowanie.pl/info/kontakt,613,id,613.html" class="stronainflink" >Kontakt</a> |
+<a href="http://www.nocowanie.pl/info/pomoc,612,id,612.html" class="stronainflink" >Pomoc</a> |
+<a href="http://www.nocowanie.pl/info/praca_w_nocowanie_pl,10981,id,10981.html" class="stronainflink" >Praca w Nocowanie.pl</a>
+
+</div></div>
+<div class="gray_footer">
+	<div class="gray_footer_content">
+	<p>copyright 2005-2013 by NOCOWANIE.PL EXTRAMEDIA Sp. z o.o. Sp.k.</p>
+	<div>
+	<a class="reklamastopka" href="http://sylwester.nocowanie.pl" title="Sylwester">Sylwester</a>, <a href="http://www.nocowanie.pl/noclegi/wladyslawowo/" class="reklamastopka" title="władysławowo noclegi">Władysławowo</a>
+, <a href="http://www.nocowanie.pl/noclegi/zakopane/" class="reklamastopka">Zakopane</a> 
+	
+	</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript">
+ (function () { 
+	var scr = document.createElement('script');	
+	scr.type = 'text/javascript'; 
+	scr.src = '/files/ajax/ajax_loader.js?p=1&g=381&rg=16&dg=1&k=4&id_lokalizacji=79187&lid=1&no_c=1&ts=1372153924.7134';
+	$('HEAD').append(scr);
+ })(); 
+</script>
+<script type="text/javascript">
+ var scr1 = document.createElement('link'); scr1.type = 'text/css'; scr1.media = 'screen'; scr1.rel = 'stylesheet'; scr1.href = 'http://d.nocowanie.pl/css/jquery-ui-1.8.23.custom.css'; $('HEAD').append(scr1); 
+ var scr2 = document.createElement('script'); scr2.type = 'text/javascript'; scr2.src = 'http://d.nocowanie.pl/js/nnoc/kamery2-v3.js'; $('HEAD').append(scr2); 
+</script>
+
+
+
+	<script type='text/javascript' charset='utf-8' src='http://go.arbopl.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+bmone2n.addPosition('1014.2.2.30','');
+bmone2n.addPosition('1014.2.8.30','');
+bmone2n.addPosition('1014.2.1.36','');
+bmone2n.addPosition('1014.2.1.6','');
+bmone2n.addPosition('1014.2.1.1','');
+bmone2n.addPosition('1014.2.1.2','');
+bmone2n.getAd('go.arbopl.bbelements.com','',''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+/* ]]> */</script>
+<div id='bmone2t-1014.2.2.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.2.30'); /* ]]> */</script></div>
+<div id='bmone2t-1014.2.8.30' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.8.30'); /* ]]> */</script></div>
+<div id='bmone2t-1014.2.1.36' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.1.36'); /* ]]> */</script></div>
+<div id='bmone2t-1014.2.1.6' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.1.6'); /* ]]> */</script></div>
+<div id='bmone2t-1014.2.1.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.1.1'); /* ]]> */</script></div>
+<div id='bmone2t-1014.2.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('1014.2.1.2'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+	<script language="javascript" type="text/javascript">
+	var pp_gemius_identifier = new String("nG4wC4gJpvgQjbh1LFjrCbdezeBYeUOrmnJSQLG2g5j.w7");
+	</script>
+	<script language="javascript" type="text/javascript" src="//arbo.hit.gemius.pl/pp_gemius.js"></script>
+<script type="text/javascript"> 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-787624-2']);
+  _gaq.push(['_setDomainName', '.nocowanie.pl']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+<script type="text/javascript">
+$(function(){$("img").waypoint(function(e,t){var n=this;setTimeout(function(){var e=n.getAttribute("data-src");if(e){$(n).animate({opacity:.1},250,function(){n.src=e}).animate({opacity:1},1e3)}},250)},{triggerOnce:true,offset:function(){return $.waypoints("viewportHeight")}})});
+</script>
+</body>
+</html>

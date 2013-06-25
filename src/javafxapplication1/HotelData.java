@@ -11,8 +11,13 @@ import java.util.ArrayList;
  * @author Kolo
  */
 public class HotelData {
+
+    public HotelData() {
+        Opinie = new ArrayList<String>();
+    }
     
     public String Name;
     public String Link;
+    public String Ocena;
     public ArrayList<String> Opinie;
 }

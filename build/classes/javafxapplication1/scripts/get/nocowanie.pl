@@ -1,4 +1,4 @@
-##skrypt wyciągający liste hoteli dla danej miejscowosci ze strony: http://www.nocowanie.pl/
+##skrypt wyciągający stronę po adresie
 use utf8;
 use strict;
 use warnings;
@@ -6,11 +6,11 @@ use warnings;
 use WWW::Mechanize;
 my $mech = WWW::Mechanize->new();
 
-my $site = "http://www.nocowanie.pl/noclegi/$ARGV[0]";
+my $site = "$ARGV[0]";
 $mech->get( $site );
 sleep 1;
 
-my $file = "nocowanie_$ARGV[0]";
+my $file = "result_link";
 my $filehtml = "$file.txt";
 
 $mech->save_content($filehtml);
