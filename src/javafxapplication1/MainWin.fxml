@@ -59,23 +59,20 @@
                     </AnchorPane>
                     <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                       <children>
-                        <SplitPane dividerPositions="0.3652694610778443" focusTraversable="true" orientation="VERTICAL" prefHeight="503.0" prefWidth="564.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <SplitPane dividerPositions="0.17365269461077845" focusTraversable="true" minWidth="564.0" orientation="VERTICAL" prefHeight="503.0" prefWidth="564.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                           <items>
-                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="212.0" prefWidth="562.0">
+                            <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="0.0" minWidth="0.0" prefHeight="87.0" prefWidth="562.0">
                               <children>
-                                <Label id="HotelName" fx:id="hotelName" layoutX="14.0" layoutY="14.0" prefHeight="22.0" prefWidth="267.0" text="nazwa" />
-                                <Label fx:id="hotelAddress" layoutX="14.0" layoutY="36.0" prefHeight="22.0" prefWidth="267.0" text="adres" />
-                                <Label fx:id="hotelOcena" layoutX="14.0" layoutY="58.0" prefHeight="22.0" prefWidth="226.0" text="ocena" />
+                                <Label id="HotelName" fx:id="hotelName" layoutX="14.0" layoutY="8.0" prefHeight="22.0" prefWidth="267.0" text="nazwa" />
+                                <Label fx:id="hotelAddress" layoutX="14.0" layoutY="30.0" prefHeight="22.0" prefWidth="267.0" text="adres" />
+                                <Label fx:id="hotelOcena" layoutX="14.0" layoutY="52.0" prefHeight="22.0" prefWidth="226.0" text="ocena" />
                               </children>
                             </AnchorPane>
-                            <GridPane id="GridPane">
-                              <columnConstraints>
-                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
-                              </columnConstraints>
-                              <rowConstraints>
-                                <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
-                              </rowConstraints>
-                            </GridPane>
+                            <AnchorPane id="AnchorPane" prefHeight="408.0">
+                              <children>
+                                <ListView fx:id="opinionBox" prefHeight="411.0" prefWidth="562.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                              </children>
+                            </AnchorPane>
                           </items>
                         </SplitPane>
                       </children>

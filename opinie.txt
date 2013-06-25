@@ -3,10 +3,10 @@
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
 <meta name="Language" content="pl"/>
-<title>Opinie o noclegu Dom Gościnny &quot; Pod Brzozami &quot; Oceń nocleg, dodaj opinię!</title>
-<meta name="title" content="Opinie o noclegu Dom Gościnny &quot; Pod Brzozami &quot; Oceń nocleg, dodaj opinię!"/>
-<meta name="description" content="Oceń nocleg, sprawdzaj opinie lub zamieść własną na temat noclegu Dom Gościnny &quot; Pod Brzozami &quot; - Poznań"/>
-<meta name="keywords" content="opinie Dom Gościnny &quot; Pod Brzozami &quot;, Poznań, dodaj opinię, opiniuj, oceń nocleg"/> 
+<title>Opinie o noclegu HOSTEL 36 Oceń nocleg, dodaj opinię!</title>
+<meta name="title" content="Opinie o noclegu HOSTEL 36 Oceń nocleg, dodaj opinię!"/>
+<meta name="description" content="Oceń nocleg, sprawdzaj opinie lub zamieść własną na temat noclegu HOSTEL 36 - Warszawa"/>
+<meta name="keywords" content="opinie HOSTEL 36, Warszawa, dodaj opinię, opiniuj, oceń nocleg"/> 
 <meta name="rating" content="general"/>
 <meta name="revisit-after" content="1 Day"/>
 <meta name="robots" content="index,follow,all"/>
@@ -130,18 +130,18 @@ $('LI.zmien-kraj A').click(function(){
 </div>
 <div id="breadcrumbs_content" xmlns:v="http://rdf.data-vocabulary.org/#"><ul>
 <li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/" title="Noclegi"  rel="v:url" property="v:title">Noclegi</a><span>&nbsp;</span></li>
-<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/" title="Noclegi Poznań"  rel="v:url" property="v:title">Noclegi Poznań</a><span>&nbsp;</span></li>
-<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/" title="Pensjonaty Poznań"  rel="v:url" property="v:title">Pensjonaty Poznań</a><span>&nbsp;</span></li>
-<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" title="Dom Gościnny &quot; Pod Brzozami &quot;"  rel="v:url" property="v:title">Dom Gościnny &quot; Pod Brzozami &quot;</a><span>&nbsp;</span></li>
-<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html" title="opinie Dom Gościnny &quot; Pod Brzozami &quot;" class="active_breadcrumb" rel="v:url" property="v:title">opinie Dom Gościnny &quot; Pod Brzozami &quot;</a></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/warszawa/" title="Noclegi Warszawa"  rel="v:url" property="v:title">Noclegi Warszawa</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/" title="Hostele Warszawa"  rel="v:url" property="v:title">Hostele Warszawa</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/" title="HOSTEL 36"  rel="v:url" property="v:title">HOSTEL 36</a><span>&nbsp;</span></li>
+<li typeof="v:Breadcrumb"><a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinie,1.html" title="opinie HOSTEL 36" class="active_breadcrumb" rel="v:url" property="v:title">opinie HOSTEL 36</a></li>
 </ul></div>
  
 <div id="search_wrapper"><div id="search_wrapper_content"> 
 <form id="search-form" method="get" action="/">
 	<div class="rad4">
 	<input type="hidden" name="command" value="search_location" />
-	<span name="q_old" style="display: none;">Poznań</span>
-	<input class="search_txt_input" name="q" type="text" value="Poznań" autocomplete="off" maxlength="30" />
+	<span name="q_old" style="display: none;">Warszawa</span>
+	<input class="search_txt_input" name="q" type="text" value="Warszawa" autocomplete="off" maxlength="30" />
 	<input class="szukaj_btn" type="submit" value="" />
 	</div>
 	
@@ -151,7 +151,7 @@ $(window).load(function(){
 	
 	$('#search-form INPUT[type=text]').podpowiedzi({ 
 		id_portalu	 : 1,
-		id_geografii : 381,
+		id_geografii : 19,
 		id_kategorii : false,
 		zmianaCallback : function(str, id_obiektu, id_geo){
 			$('#wyszukiwanie_zaawansowane [name="q"]').val(str);
@@ -276,26 +276,26 @@ if ($.cookie('noc_search_ret'))
 {
 	var ret_link_cookie = $.parseJSON($.cookie('noc_search_ret'));
 	if (ret_link_cookie && 
-		(ret_link_cookie.id_geografii == 381 || 
-		 ret_link_cookie.region & 8388608))
+		(ret_link_cookie.id_geografii == 19 || 
+		 ret_link_cookie.region & 1024))
 		document.write(ret_link_cookie.link);
 }
 </script>
 					
 													
-		<div class="nazwa_obiektu_box"  onClick="location.href='http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/';">
+		<div class="nazwa_obiektu_box"  onClick="location.href='http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/';">
 
-						<div class="img-top"  style="background-image: url('//i.nocowanie.pl/m3/1320/112-poznan-dom-goscinny-pod.jpg');"></div>			
+						<div class="img-top"  style="background-image: url('//i.nocowanie.pl/m4/65/117-warszawa-hostel-sluzewiec.jpg');"></div>			
 				
 			
 						
 		  	<div class="obiekt">
 				<div class="obiekt-box">
-								<h1 class="nazwa_obiektu"  >Dom Gościnny &quot; Pod Brzozami &quot;</h1>&nbsp;<span>(Pensjonaty)</span>				<h2 class="adres"  ><span ><span >Brzozowa&nbsp;69</span> Poznań</span></h2>
+								<h1 class="nazwa_obiektu"  >HOSTEL 36</h1>&nbsp;<span>(Hostele)</span>				<h2 class="adres"  ><span ><span >Bokserska&nbsp;36</span> Warszawa</span></h2>
 				</div>
 				
 				<div class="obiekt-box-2">
-								<a class="wroc_do_oferty_glownej blue_btn" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/">
+								<a class="wroc_do_oferty_glownej blue_btn" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/">
 				<span>&nbsp;</span>Wróć do oferty głównej
 				</a>
 																</div>
@@ -311,10 +311,10 @@ if ($.cookie('noc_search_ret'))
 		<ul>
 					
 											
-			<li ><a title="Opis Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/">Opis</a></li> 
-			<li ><a title="Zdjęcia Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/photos,79187.html#mini">Zdjęcia (21)</a></li>			<li class="current"><a title="Opinie Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html">Opinie (0)</a></li>			<li ><a title="Mapa Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html">Mapa</a></li>			 
-			<li ><a title="Cennik Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/prices,79187.html">Cennik</a></li> 
-											<li ><a class="new-icon" style="padding-right: 45px;" title="W pobliżu Dom Gościnny &quot; Pod Brzozami &quot;" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/w_poblizu.html">Okolica</a></li>				
+			<li ><a title="Opis HOSTEL 36" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/">Opis</a></li> 
+			<li ><a title="Zdjęcia HOSTEL 36" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/photos,118425.html#mini">Zdjęcia (10)</a></li>			<li class="current"><a title="Opinie HOSTEL 36" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinie,1.html">Opinie (1)</a></li>			<li ><a title="Mapa HOSTEL 36" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/map,118425.html">Mapa</a></li>			 
+			 
+											<li ><a class="new-icon" style="padding-right: 45px;" title="W pobliżu HOSTEL 36" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/w_poblizu.html">Okolica</a></li>				
 	                  
 		</ul>
 	</div> 
@@ -326,21 +326,21 @@ if ($.cookie('noc_search_ret'))
 		<p>Ocena</p>
 		<div class="big-stars">
 			<div></div>
-			<div style="width: 0%;"></div>
+			<div style="width: 20%;"></div>
 			<div></div>
 		</div>
-		<span property="v:average">0</span><span property="v:best" content="5"></span>
-		<span property="v:count" content="0"></span>
+		<span property="v:average">1</span><span property="v:best" content="5"></span>
+		<span property="v:count" content="1"></span>
 	</div> 
 	<a href="#" class="dodaj_ocene_obiektu_btn blue_btn opbtn" >dodaj ocenę obiektu</a>
 	
 <div id="dodaj_opinie" width="800" class="dodaj_opinie_box rad4 popup_block" style="display: none;">
 <form method="post" name="form_opinia" id="form_opinia">
 	<input type="hidden" name="id_usera" value="1" />
-	<input type="hidden" value="s3/1320/112-poznan-dom-goscinny-pod.jpg" name="FBobrazek" id="FBobrazek" />
-	<input type="hidden" value="" name="FBopis" id="FBopis" />
-	<input type="hidden" value="Opinie o noclegu Dom Gościnny &quot; Pod Brzozami &quot; Oceń nocleg, dodaj opinię!" name="FBurlNazwa"/>
-	<input type="hidden" value="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/opinie,1.html" name="FBurl" id="FBurl" />
+	<input type="hidden" value="s4/65/117-warszawa-hostel-sluzewiec.jpg" name="FBobrazek" id="FBobrazek" />
+	<input type="hidden" value="Hostel 36 to doskonała propozycja dla Gości odwiedzających Warszawę. " name="FBopis" id="FBopis" />
+	<input type="hidden" value="Opinie o noclegu HOSTEL 36 Oceń nocleg, dodaj opinię!" name="FBurlNazwa"/>
+	<input type="hidden" value="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinie,1.html" name="FBurl" id="FBurl" />
 	<div class="dodaj_opinie_box_title rad4"><p>Dodaj opinię o obiekcie</p><a class="popup_close" href="#">X</a></div>
 	<div class="dodaj_opinie_box_content">
 	  
@@ -833,8 +833,95 @@ $(window).load(function() {
 </div>  
 
 	  
-    <div class="ocen_box" style="margin: 10px 0 10px 0;"><h3 class="radius_gray pierwszy">Bądź pierwszy, który doda opinię o tym obiekcie!</h3></div>
   	
+	<div class="ocen_box">
+							<div class="ocen_standard_box">
+			<div class="row_one ocen_standard_lokalu">Ocena standardu wg kryteriów:</div>
+														<div class="row_one">
+				<div class="nazwa_p">pokoje</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+																		<div class="row_one">
+				<div class="nazwa_p">łazienki</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+																		<div class="row_one">
+				<div class="nazwa_p">obsługa</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+																													<div class="row_one">
+				<div class="nazwa_p">lokalizacja</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+																		<div class="row_one">
+				<div class="nazwa_p">jakość do ceny</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+																		<div class="row_one">
+				<div class="nazwa_p">zgodność z ofertą</div>
+				<div class="nota_p">
+					<div><div style="width: 20%;"></div></div>
+				</div>
+				<div class="srednia_p">1</div>
+			</div>
+									</div> 
+								
+		                         
+								
+				<div class="komu_polecasz_obiekt_box">
+			<div class="row_one ocen_standard_lokalu">Komu polecany jest ten obiekt?</div>
+						<div class="row_one">
+				<div class="nazwa_p">wycieczkom</div>
+								<div class="nota_p2">
+					<div class="pasek-procent"><div style="width: 100%;">100%</div></div>
+				</div>
+							</div>
+					</div>
+		                         
+		</div>
+
+			<div class="ocena_in_box rad4">
+		<div class="ocena_in_box_content">  
+			<div class="box_imie">
+							<p class="imie_oceniajacego">renata, wrocłąw</p>
+							<div class="ocena_z_gwiazdkami_box">
+					<div class="ocena-txt">Ocena</div>
+					<div class="content_gwiazdki_srednie">
+						<div></div>
+						<div style="width: 20%;"></div>           
+						<div></div>
+					</div>
+					<div class="srednia_box">1/5</div>
+					<div class="data">2013-06-15 19:44:38</div>
+				</div>
+			</div>                                                                     
+			<div class="opis_komentarza_box">
+				<div class="img_box2">
+														<img src="//d.nocowanie.pl/avatars/default_avatar.gif" width="50" height="50" alt="avatar"/>
+								</div>
+				<div class="opis2_box">brudno w pokojach,kurz na wykładzinie, brudne firanki, sprzataczka zmienia tylko posciel, bez odkurzania</div> 
+				                                         
+			</div>    
+			                          
+			<a class="sprawdz_ocene_btn blue_btn" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinia,450380.html">Kliknij i zobacz pełną ocenę obiektu</a>
+		</div>                                        
+	</div>  
+	  	
 	<a class="dodaj_ocene_obiektu_btn2 blue_btn opbtn" href="#" >dodaj ocenę obiektu</a> 
   
 
@@ -842,7 +929,7 @@ $(window).load(function() {
 
 $(window).load(function() {
 	$(".opbtn").click(function(e){
-		$.ajax({url : '/files/ajax/op_check_ip.php?id_lokalizacji=79187',
+		$.ajax({url : '/files/ajax/op_check_ip.php?id_lokalizacji=118425',
 				success : function(dane) {
             		var ip = parseInt(dane);
 					if (ip == 2)
@@ -863,46 +950,46 @@ $(window).load(function() {
 	<h2 class="pasek_gray"><span>Zobacz także</span></h2>
 	<div class="txt">
 			<p class="okoliczne">Okoliczne noclegi:</p>
-		<p class="z">									<span><a href="http://www.nocowanie.pl/noclegi/grobla/" title="Noclegi Grobla" >Noclegi Grobla</a> [1 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/berdychowo/" title="Noclegi Berdychowo" >Noclegi Berdychowo</a> [2 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/pasieka_4/" title="Noclegi Pasieka" >Noclegi Pasieka</a> [2 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/ostrowo_5/" title="Noclegi Ostrowo" class="b">Noclegi Ostrowo</a> [2 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/bonin_3/" title="Noclegi Bonin" >Noclegi Bonin</a> [3 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/marczykowskie/" title="Noclegi Marczykowskie" >Noclegi Marczykowskie</a> [4 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/nadolnik_2/" title="Noclegi Nadolnik" >Noclegi Nadolnik</a> [4 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/baran/" title="Noclegi Baran" >Noclegi Baran</a> [5 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/stary_staw/" title="Noclegi Stary Staw" >Noclegi Stary Staw</a> [6 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/kozieglowy_2/" title="Noclegi Koziegłowy" class="b">Noclegi Koziegłowy</a> [6 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/olszak_2/" title="Noclegi Olszak" >Noclegi Olszak</a> [6 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/krolewskie/" title="Noclegi Królewskie" >Noclegi Królewskie</a> [6 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/bogucin_4/" title="Noclegi Bogucin" >Noclegi Bogucin</a> [7 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/antoninek/" title="Noclegi Antoninek" >Noclegi Antoninek</a> [7 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/lubon_2/" title="Noclegi Luboń" >Noclegi Luboń</a> [7 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/suchy_las_3/" title="Noclegi Suchy Las" class="b">Noclegi Suchy Las</a> [8 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/czerwonak/" title="Noclegi Czerwonak" class="b">Noclegi Czerwonak</a> [8 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/janikowo_2/" title="Noclegi Janikowo" >Noclegi Janikowo</a> [8 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/suchy_las/" title="Noclegi Suchy Las (pow. kolski)" >Noclegi Suchy Las (pow. kolski)</a> [8 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/przeszkoda_2/" title="Noclegi Przeszkoda" >Noclegi Przeszkoda</a> [8 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/skorzewo_3/" title="Noclegi Skórzewo" >Noclegi Skórzewo</a> [9 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/miekowo_2/" title="Noclegi Miękowo" >Noclegi Miękowo</a> [9 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/plewiska/" title="Noclegi Plewiska" >Noclegi Plewiska</a> [9 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/kicin_2/" title="Noclegi Kicin" >Noclegi Kicin</a> [9 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/gruszczyn/" title="Noclegi Gruszczyn" class="b">Noclegi Gruszczyn</a> [10 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/przezmierowo/" title="Noclegi Przeźmierowo" class="b">Noclegi Przeźmierowo</a> [10 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/swarzedz/" title="Noclegi Swarzędz" class="b">Noclegi Swarzędz</a> [11 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/owinska/" title="Noclegi Owińska" class="b">Noclegi Owińska</a> [12 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/rosnowo/" title="Noclegi Rosnowo" class="b">Noclegi Rosnowo</a> [13 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/puszczykowo/" title="Noclegi Puszczykowo" class="b">Noclegi Puszczykowo</a> [14 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/rokietnica/" title="Noclegi Rokietnica" class="b">Noclegi Rokietnica</a> [17 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/mosina_3/" title="Noclegi Mosina" class="b">Noclegi Mosina</a> [19 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/kolatka/" title="Noclegi Kołatka" class="b">Noclegi Kołatka</a> [19 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/murowana_goslina/" title="Noclegi Murowana Goślina" class="b">Noclegi Murowana Goślina</a> [19 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/tarnowo_podgorne/" title="Noclegi Tarnowo Podgórne" class="b">Noclegi Tarnowo Podgórne</a> [19 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/steszew/" title="Noclegi Stęszew" class="b">Noclegi Stęszew</a> [20 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/kornik/" title="Noclegi Kórnik" class="b">Noclegi Kórnik</a> [21 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/czerlejno/" title="Noclegi Czerlejno" class="b">Noclegi Czerlejno</a> [21 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/pobiedziska/" title="Noclegi Pobiedziska" class="b">Noclegi Pobiedziska</a> [26 km]</span>
-									<span><a href="http://www.nocowanie.pl/noclegi/kazmierz/" title="Noclegi Kaźmierz" class="b">Noclegi Kaźmierz</a> [26 km]</span>
+		<p class="z">									<span><a href="http://www.nocowanie.pl/noclegi/konopatka/" title="Noclegi Konopatka" >Noclegi Konopatka</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/ksawerow/" title="Noclegi Ksawerów" >Noclegi Ksawerów</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/warszewko/" title="Noclegi Warszewko" >Noclegi Warszewko</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/dlugosz/" title="Noclegi Długosz" >Noclegi Długosz</a> [4 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/potok_2/" title="Noclegi Potok" >Noclegi Potok</a> [5 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/lukowo_4/" title="Noclegi Łukowo" >Noclegi Łukowo</a> [6 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/zabki/" title="Noclegi Ząbki" class="b">Noclegi Ząbki</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/blizne_laszczynskiego/" title="Noclegi Blizne Łaszczyńskiego" >Noclegi Blizne Łaszczyńskiego</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/drozdy/" title="Noclegi Drozdy" >Noclegi Drozdy</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/bogdaniec_3/" title="Noclegi Bogdaniec" >Noclegi Bogdaniec</a> [9 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/lubiczow/" title="Noclegi Lubiczów" >Noclegi Lubiczów</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/blizne_jasinskiego/" title="Noclegi Blizne Jasińskiego" >Noclegi Blizne Jasińskiego</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/raszyn/" title="Noclegi Raszyn" class="b">Noclegi Raszyn</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/januszyno/" title="Noclegi Januszyno" >Noclegi Januszyno</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/opacz_mala/" title="Noclegi Opacz Mała" >Noclegi Opacz Mała</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/jaworowa/" title="Noclegi Jaworowa" >Noclegi Jaworowa</a> [10 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/nowe_grocholice/" title="Noclegi Nowe Grocholice" >Noclegi Nowe Grocholice</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/mory/" title="Noclegi Mory" >Noclegi Mory</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/opacz-kolonia/" title="Noclegi Opacz-Kolonia" >Noclegi Opacz-Kolonia</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/dawidy/" title="Noclegi Dawidy" >Noclegi Dawidy</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/macierzysz/" title="Noclegi Macierzysz" >Noclegi Macierzysz</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/mala_wysoka/" title="Noclegi Mała Wysoka" >Noclegi Mała Wysoka</a> [11 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/stare_babice/" title="Noclegi Stare Babice" class="b">Noclegi Stare Babice</a> [13 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/piastow_2/" title="Noclegi Piastów" class="b">Noclegi Piastów</a> [13 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/ozarow_mazowiecki/" title="Noclegi Ożarów Mazowiecki" class="b">Noclegi Ożarów Mazowiecki</a> [15 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/konstancin-jeziorna/" title="Noclegi Konstancin-Jeziorna" class="b">Noclegi Konstancin-Jeziorna</a> [16 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/pruszkow/" title="Noclegi Pruszków" class="b">Noclegi Pruszków</a> [16 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/sekocin_stary/" title="Noclegi Sękocin Stary" class="b">Noclegi Sękocin Stary</a> [17 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/sulejowek/" title="Noclegi Sulejówek" class="b">Noclegi Sulejówek</a> [17 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/piaseczno/" title="Noclegi Piaseczno" class="b">Noclegi Piaseczno</a> [18 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/wolomin/" title="Noclegi Wołomin" class="b">Noclegi Wołomin</a> [20 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/legionowo/" title="Noclegi Legionowo" class="b">Noclegi Legionowo</a> [20 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/otrebusy/" title="Noclegi Otrębusy" class="b">Noclegi Otrębusy</a> [21 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/otwock/" title="Noclegi Otwock" class="b">Noclegi Otwock</a> [21 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/nadarzyn/" title="Noclegi Nadarzyn (pow. pruszkowski)" class="b">Noclegi Nadarzyn (pow. pruszkowski)</a> [21 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/solec_2/" title="Noclegi Solec" class="b">Noclegi Solec</a> [23 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/swiecice/" title="Noclegi Święcice" class="b">Noclegi Święcice</a> [23 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/radzymin/" title="Noclegi Radzymin" class="b">Noclegi Radzymin</a> [24 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/otwock_wielki/" title="Noclegi Otwock Wielki" class="b">Noclegi Otwock Wielki</a> [25 km]</span>
+									<span><a href="http://www.nocowanie.pl/noclegi/bialobrzegi_5/" title="Noclegi Białobrzegi" class="b">Noclegi Białobrzegi</a> [25 km]</span>
 					</p>
 		
 		<p class="info-miasto"> informacje <span id="okoliczne_strzalka" class="strzalka dol" style="top: 0px;">&nbsp;</span></p>
@@ -911,55 +998,61 @@ $(window).load(function() {
 						<a href="				//noclegi//mapa/" title=" mapa">
 				Mapa 			</a>
 											
-																								
-						<a href="http://www.nocowanie.pl/noclegi/poznan/restauracje/" title="Restauracje ">Restauracje</a>
+																														
+						<a href="http://www.nocowanie.pl/noclegi/warszawa/restauracje/" title="Restauracje ">Restauracje</a>
 			
 																		
-						<a href="http://www.nocowanie.pl/noclegi/poznan/turystyka_aktywna/" title="Wypoczynek aktywny ">Wypoczynek aktywny</a>
+						<a href="http://www.nocowanie.pl/noclegi/warszawa/zwiedzanie_czas_wolny/" title="Warto zobaczyć ">Warto zobaczyć</a>
 			
-																																																																																																												
-						<a href="http://www.nocowanie.pl/noclegi/poznan/zwiedzanie_czas_wolny/" title="Warto zobaczyć ">Warto zobaczyć</a>
+																																				
+						<a href="http://www.nocowanie.pl/noclegi/warszawa/turystyka_aktywna/" title="Wypoczynek aktywny ">Wypoczynek aktywny</a>
 			
-																	
+																																																																																																											
 						
 		</p>
 		
 					<br/>
-			<p class="info-miasto">Poznań typy usług <span id="typy-uslug-arrow" class="strzalka dol" style="top: 0px;">&nbsp;</span></p>
+			<p class="info-miasto">Warszawa typy usług <span id="typy-uslug-arrow" class="strzalka dol" style="top: 0px;">&nbsp;</span></p>
 			<p class="l k" id="typy-uslug-info" style="display: none;">
 			
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-osobowy/" title="Apartament 2 osobowy Poznań">Apartament 2 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament_2-pokojowy_1-osobowy/" title="Apartament 2-pokojowy 1-osobowy Poznań">Apartament 2-pokojowy 1-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament_2-pokojowy_2-osobowy/" title="Apartament 2-pokojowy 2-osobowy Poznań">Apartament 2-pokojowy 2-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-3-osobowy/" title="Apartament 2-pokojowy 3-osobowy Poznań">Apartament 2-pokojowy 3-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-4-osobowy/" title="Apartament 2-pokojowy 4-osobowy Poznań">Apartament 2-pokojowy 4-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-2-pokojowy-5-osobowy/" title="Apartament 2-pokojowy 5-osobowy Poznań">Apartament 2-pokojowy 5-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-osobowy/" title="Apartament 3 osobowy Poznań">Apartament 3 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-4-osobowy/" title="Apartament 3-pokojowy 4-osobowy Poznań">Apartament 3-pokojowy 4-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-5-osobowy/" title="Apartament 3-pokojowy 5-osobowy Poznań">Apartament 3-pokojowy 5-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-3-pokojowy-6-osobowy/" title="Apartament 3-pokojowy 6-osobowy Poznań">Apartament 3-pokojowy 6-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-4-osobowy/" title="Apartament 4 osobowy Poznań">Apartament 4 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-5-osobowy/" title="Apartament 5 osobowy Poznań">Apartament 5 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/apartament-6-osobowy/" title="Apartament 6 osobowy Poznań">Apartament 6 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/domek-3-osobowy/" title="Domek 3 osobowy Poznań">Domek 3 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/domek-6-osobowy/" title="Domek 6 osobowy Poznań">Domek 6 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/oplata-za-zwierzeta/" title="Opłata za zwierzęta Poznań">Opłata za zwierzęta</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-1-osobowy-z-lazienka/" title="Pokój 1 osobowy z łazienką Poznań">Pokój 1 osobowy z łazienką</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-1-osobowy/" title="Pokój 1-osobowy Poznań">Pokój 1-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-10-osobowy/" title="Pokój 10 osobowy Poznań">Pokój 10 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-12-osobowy/" title="Pokój 12 osobowy Poznań">Pokój 12 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy-typ-studio/" title="Pokój 2 osobowy typ studio Poznań">Pokój 2 osobowy typ studio</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy-z-lazienka/" title="Pokój 2 osobowy z łazienką Poznań">Pokój 2 osobowy z łazienką</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-2-osobowy/" title="Pokój 2-osobowy Poznań">Pokój 2-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-3-osobowy-z-lazienka/" title="Pokój 3 osobowy z łazienką Poznań">Pokój 3 osobowy z łazienką</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-3-osobowy/" title="Pokój 3-osobowy Poznań">Pokój 3-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-4-osobowy-z-lazienka/" title="Pokój 4 osobowy z łazienką Poznań">Pokój 4 osobowy z łazienką</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-4-osobowy/" title="Pokój 4-osobowy Poznań">Pokój 4-osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-5-osobowy/" title="Pokój 5 osobowy Poznań">Pokój 5 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-6-osobowy/" title="Pokój 6 osobowy Poznań">Pokój 6 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-7-osobowy/" title="Pokój 7 osobowy Poznań">Pokój 7 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/pokoj-8-osobowy/" title="Pokój 8 osobowy Poznań">Pokój 8 osobowy</a>
-								<a href="http://www.nocowanie.pl/noclegi/poznan/dostawka/" title="dostawka Poznań">dostawka</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-2-osobowy/" title="Apartament 2 osobowy Warszawa">Apartament 2 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament_2-pokojowy_1-osobowy/" title="Apartament 2-pokojowy 1-osobowy Warszawa">Apartament 2-pokojowy 1-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament_2-pokojowy_2-osobowy/" title="Apartament 2-pokojowy 2-osobowy Warszawa">Apartament 2-pokojowy 2-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-2-pokojowy-3-osobowy/" title="Apartament 2-pokojowy 3-osobowy Warszawa">Apartament 2-pokojowy 3-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-2-pokojowy-4-osobowy/" title="Apartament 2-pokojowy 4-osobowy Warszawa">Apartament 2-pokojowy 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-2-pokojowy-5-osobowy/" title="Apartament 2-pokojowy 5-osobowy Warszawa">Apartament 2-pokojowy 5-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-2-pokojowy-6-osobowy/" title="Apartament 2-pokojowy 6-osobowy Warszawa">Apartament 2-pokojowy 6-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-3-osobowy/" title="Apartament 3 osobowy Warszawa">Apartament 3 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-3-pokojowy-4-osobowy/" title="Apartament 3-pokojowy 4-osobowy Warszawa">Apartament 3-pokojowy 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-3-pokojowy-5-osobowy/" title="Apartament 3-pokojowy 5-osobowy Warszawa">Apartament 3-pokojowy 5-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-3-pokojowy-6-osobowy/" title="Apartament 3-pokojowy 6-osobowy Warszawa">Apartament 3-pokojowy 6-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament_3-pokojowy_7-osobowy/" title="Apartament 3-pokojowy 7-osobowy Warszawa">Apartament 3-pokojowy 7-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-4-osobowy/" title="Apartament 4 osobowy Warszawa">Apartament 4 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-4-pokojowy-6-osobowy/" title="Apartament 4-pokojowy 6-osobowy Warszawa">Apartament 4-pokojowy 6-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-5-osobowy/" title="Apartament 5 osobowy Warszawa">Apartament 5 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-6-osobowy/" title="Apartament 6 osobowy Warszawa">Apartament 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-8-osobowy/" title="Apartament 8 osobowy Warszawa">Apartament 8 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/apartament-9-osobowy/" title="Apartament 9 osobowy Warszawa">Apartament 9 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/domek-6-osobowy/" title="Domek 6 osobowy Warszawa">Domek 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/oplata-za-zwierzeta/" title="Opłata za zwierzęta Warszawa">Opłata za zwierzęta</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-1-osobowy-z-lazienka/" title="Pokój 1 osobowy z łazienką Warszawa">Pokój 1 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-1-osobowy/" title="Pokój 1-osobowy Warszawa">Pokój 1-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-10-osobowy/" title="Pokój 10 osobowy Warszawa">Pokój 10 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-12-osobowy/" title="Pokój 12 osobowy Warszawa">Pokój 12 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-2-osobowy-typ-studio/" title="Pokój 2 osobowy typ studio Warszawa">Pokój 2 osobowy typ studio</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-2-osobowy-z-lazienka/" title="Pokój 2 osobowy z łazienką Warszawa">Pokój 2 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-2-osobowy/" title="Pokój 2-osobowy Warszawa">Pokój 2-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-3-osobowy-typ-studio/" title="Pokój 3 osobowy typ studio Warszawa">Pokój 3 osobowy typ studio</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-3-osobowy-z-lazienka/" title="Pokój 3 osobowy z łazienką Warszawa">Pokój 3 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-3-osobowy/" title="Pokój 3-osobowy Warszawa">Pokój 3-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-4-osobowy-typ-studio/" title="Pokój 4 osobowy typ studio Warszawa">Pokój 4 osobowy typ studio</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-4-osobowy-z-lazienka/" title="Pokój 4 osobowy z łazienką Warszawa">Pokój 4 osobowy z łazienką</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-4-osobowy/" title="Pokój 4-osobowy Warszawa">Pokój 4-osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-5-osobowy/" title="Pokój 5 osobowy Warszawa">Pokój 5 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-6-osobowy/" title="Pokój 6 osobowy Warszawa">Pokój 6 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-7-osobowy/" title="Pokój 7 osobowy Warszawa">Pokój 7 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/pokoj-8-osobowy/" title="Pokój 8 osobowy Warszawa">Pokój 8 osobowy</a>
+								<a href="http://www.nocowanie.pl/noclegi/warszawa/dostawka/" title="dostawka Warszawa">dostawka</a>
 							</p>
 				
 	</div>
@@ -1016,8 +1109,8 @@ $(window).load(function() { if (!$.cookie('cookie_klauzula')) { $('#cookie_klauz
 		
 	<div class="obiekt_social_prawa_kol">
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{ lang: 'pl'}</script>
-				<div style="margin-right: 4px;" class="fb-like" data-href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" data-layout="button_count" data-send="false" data-width="150" data-show-faces="false"></div><g:plusone href="http://www.nocowanie.pl" size="medium"></g:plusone>
-				<a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/druk,1.html" onclick='windowprops = "width=750,scrollbars=yes"; window.open($(this).attr("href"), "", windowprops); return false;' class="obiekt_print" rel=”nofollow”>Drukuj</a>
+				<div style="margin-right: 4px;" class="fb-like" data-href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/" data-layout="button_count" data-send="false" data-width="150" data-show-faces="false"></div><g:plusone href="http://www.nocowanie.pl" size="medium"></g:plusone>
+				<a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/druk,1.html" onclick='windowprops = "width=750,scrollbars=yes"; window.open($(this).attr("href"), "", windowprops); return false;' class="obiekt_print" rel=”nofollow”>Drukuj</a>
 	</div>
 				
 			
@@ -1104,8 +1197,8 @@ $(window).load(function() { if (!$.cookie('cookie_klauzula')) { $('#cookie_klauz
 		</div>   
 	</div> 
 	<input type="hidden" value="1" name="form_etap" />
-	<input type="hidden" value="Dom Gościnny &quot; Pod Brzozami &quot;" name="lokal1_nazwa" />
-	<input type="hidden" value="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/" name="lokal1_url" />
+	<input type="hidden" value="HOSTEL 36" name="lokal1_nazwa" />
+	<input type="hidden" value="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/" name="lokal1_url" />
 	<input type="hidden" value="send_mail_to_location" name="command" />	
 </form>	
 </div>
@@ -1150,17 +1243,43 @@ $("#service_booking_form2, #service_booking_form2a").submit(function(e){
 	                  
 
 			<div class="box_mapa">
-		<h2 class="pasek_gray">Zobacz gdzie jesteśmy<a class="box_head rad4" href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html">zobacz mapę</a></h2>                       
+		<h2 class="pasek_gray">Zobacz gdzie jesteśmy<a class="box_head rad4" href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/map,118425.html">zobacz mapę</a></h2>                       
 		<div class="box_mapa_content">
 	
-	<a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/79187/map,79187.html" style="display: block;" title="mapa Dom Gościnny &quot; Pod Brzozami &quot;">
+	<a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/map,118425.html" style="display: block;" title="mapa HOSTEL 36">
 	<div id="map" class="default_map" style="background: url('http://d.nocowanie.pl/gfx/nnoc/default_map_1.jpg') no-repeat; width:300px;height:200px;font-family:tahoma,arial,helvetica,sans-serif;font-size:12px;color:#565656;"></div>
 	</a>	
 		</div>                                 
 	
 	</div>              
 	     
-    	<div class="dispbl mt10 cb"></div>
+                       
+	<div class="najnowsze_opinie_obiektu_box">
+	<h2 class="pasek_gray"><span>Zobacz jak oceniają nas turyści</span><a class="box_head rad4" onClick="$('#dodajopinie').submit();" href="#" >dodaj opinię</a></h2> 
+		<div class="opinia_box radius_gray">
+		<div class="fotobox">
+						
+			<img class="foto foto_m" onclick="location.href='http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinie,1.html#opinia_450380';" src="//d.nocowanie.pl/avatars/d/de/def/default_avatar.gif" />			
+			<div class="star_box">
+				<div class="date" style="text-align: center;">2013-06-15<br/><span style="font-size:90%;">19:44</span></div>
+				<div class="rate_m rate_g">
+									<div>
+						<div></div>
+						<div style="width: 20%;"></div>           
+						<div></div>
+					</div>
+				</div>
+			</div>
+			<div class="opis_opinia">
+				<a href="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinia,450380.html"><span class="ob">renata</span></a>
+				<span class="kto_dodal">brudno w pokojach,kurz na...</span>
+			</div>       
+		</div>                                                           
+	</div>  
+		<form action="http://www.nocowanie.pl/noclegi/warszawa/hostele/118425/opinie,1.html" method="post" id="dodajopinie"><input type="hidden" name="showform" value="1" /></form>                
+</div> 
+
+		<div class="dispbl mt10 cb"></div>
 	 
 	
 	
@@ -1205,7 +1324,7 @@ $("#service_booking_form2, #service_booking_form2a").submit(function(e){
  (function () { 
 	var scr = document.createElement('script');	
 	scr.type = 'text/javascript'; 
-	scr.src = '/files/ajax/ajax_loader.js?p=1&g=381&rg=16&dg=1&k=4&id_lokalizacji=79187&lid=1&no_c=1&ts=1372183166.0963';
+	scr.src = '/files/ajax/ajax_loader.js?p=1&g=19&rg=3&dg=1&k=71&id_lokalizacji=118425&lid=1&no_c=1&ts=1372197207.2529';
 	$('HEAD').append(scr);
  })(); 
 </script>

@@ -14,10 +14,12 @@ import java.util.ResourceBundle;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.Node;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
+import javafx.scene.layout.VBox;
 
 /**
  * FXML Controller class
@@ -27,6 +29,7 @@ import javafx.scene.layout.GridPane;
 public class MainWinController implements Initializable {
 
     private ArrayList<HotelData> hotelDataList;
+
     @FXML
     private ListView<String> hotelList;
     @FXML
@@ -38,18 +41,18 @@ public class MainWinController implements Initializable {
     @FXML
     private Label hotelOcena;
     @FXML
-    private GridPane opinionPane;
+    private ListView<String> opinionBox;
 
     private void getUrlToFile(String link, String file) {
         try {
             String cmd = "perl src\\javafxapplication1\\scripts\\getSite.pl " + link + " " + file;
             Process proc = Runtime.getRuntime().exec(cmd);
             proc.waitFor();
-            if (proc.exitValue() == 0) {
-                System.out.println("Getting " + link + " as a " + file + " file = Success!");
-            } else {
-                System.out.println("Getting " + link + " as a " + file + " file = Error!");
-            }
+//            if (proc.exitValue() == 0) {
+//                System.out.println("Getting " + link + " as a " + file + " file = Success!");
+//            } else {
+//                System.out.println("Getting " + link + " as a " + file + " file = Error!");
+//            }
         } catch (IOException | InterruptedException exception) {
             System.out.printf(exception.getStackTrace().toString());
         }
@@ -60,11 +63,11 @@ public class MainWinController implements Initializable {
             String cmd = "perl src\\javafxapplication1\\scripts\\" + site + "\\" + script + ".pl " + arg + ".txt";
             Process proc = Runtime.getRuntime().exec(cmd);
             proc.waitFor();
-            if (proc.exitValue() == 0) {
-                System.out.println("Running script " + script + " for site " + site + " = Success!");
-            } else {
-                System.out.println("Running script " + script + " for site " + site + " = Error!");
-            }
+//            if (proc.exitValue() == 0) {
+//                System.out.println("Running script " + script + " for site " + site + " = Success!");
+//            } else {
+//                System.out.println("Running script " + script + " for site " + site + " = Error!");
+//            }
         } catch (IOException | InterruptedException exception) {
             System.out.printf(exception.getStackTrace().toString());
         }
@@ -148,7 +151,7 @@ public class MainWinController implements Initializable {
         hotelDataList = new ArrayList<HotelData>();
 
         ObservableList<String> items = hotelList.getItems();
-        
+
         items.add("...");
         items.add("...");
         items.add("...");
@@ -166,15 +169,20 @@ public class MainWinController implements Initializable {
 
     @FXML
     private void handleViewListPickAction() {
-        System.out.println(hotelList.getFocusModel().getFocusedItem());
+//        System.out.println(hotelList.getFocusModel().getFocusedItem());
         String name = hotelList.getFocusModel().getFocusedItem();
         for (HotelData hotel : hotelDataList) {
             if (hotel.Name.equals(name)) {
                 //Fill data TODO
                 hotelName.setText(name);
                 hotelOcena.setText(hotel.Ocena);
-                
+
                 //Uzupelnij opinie
+                ObservableList<String> items = opinionBox.getItems();
+                items.clear();
+                for (String str : hotel.Opinie) {
+                    items.add(str);
+                }
             }
         }
     }
