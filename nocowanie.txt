@@ -505,7 +505,7 @@ $('#wyszukiwanie_zaawansowane').submit();
 	<h2><a href="http://www.nocowanie.pl/noclegi/poznan/hotele/24176/" title="Hotel TOPAZ">Hotel TOPAZ</a></h2>
 		<div class="box_opis2_ver2" onclick="location.href='http://www.nocowanie.pl/noclegi/poznan/hotele/24176/'">
 		<span style="color: #979797; display: block; padding-bottom: 10px; font-size: 11px; font-family: tahoma;">kategoria: Hotele</span>
-		<a href="http://www.nocowanie.pl/noclegi/poznan/hotele/24176/" title="Hotel TOPAZ">&nbsp;Posiadamy doskonałą lokalizację w centrum Poznania w enklawie ciszy i zieleni.&nbsp;Na miejscu dysponujemy dogodnym, monitorowanym,...</a>
+		<a href="http://www.nocowanie.pl/noclegi/poznan/hotele/24176/" title="Hotel TOPAZ"> Posiadamy doskonałą lokalizację w centrum Poznania w enklawie ciszy i zieleni. Na miejscu dysponujemy dogodnym, monitorowanym, ogrodzonym...</a>
 	</div>    
 	<div class="box6_ver2"><ul>
 		<li class="km">&nbsp;</li>
@@ -1370,9 +1370,36 @@ $(window).load(function() { if (!$.cookie('cookie_klauzula')) { $('#cookie_klauz
 
 	
 	
-<div id="CpluginShoutbox_1372205753" class="shoutbox radius_gray">
+<div id="CpluginShoutbox_1372256302" class="shoutbox radius_gray">
 	<div>
 		<h2 class="bold">Ostatnie aktywności w regionie</h2>
+					<div class="box rad4 shadow2" id_zdarzenia="395093" uid="59870" id_lokalizacji="83161"  href="http://www.nocowanie.pl/noclegi/poznan/hostele/83161/">
+				<div>
+					<h3><a href="http://www.nocowanie.pl/noclegi/poznan/hostele/83161/" class="nazwa">Stayokay Hostel</a></h3>
+					<div class="zdjecie">
+						<div class="foto foto_m" style="background-image:url(//i.nocowanie.pl/m2/396/180-poznan-stayokay-hostel.jpg);"> </div>
+						<p class="czas">2013-06-25 11:53:52</p>
+					</div>
+					<div class="opis">
+						<h4 style="display: none;">Stayokay Hostel</h4>
+						<div class="rate_m rate_b" style=" display:none;">
+							<div>
+								<div></div>
+								<div style="width: 0%;"></div>
+								<div></div>
+							</div>
+						</div>
+												
+						<p class="zdarzenie">	
+							Nowa oferta - witamy w nocowanie.pl!
+						</p>
+						
+						<p class="komentarz">
+													StayOkay Hostel położony jest w centrum miasta w niedalekim sąsiedztwie dworca PKP i PKS i oferuje wygodne miejsca...
+												</p>
+					</div>
+				</div>
+			</div>
 					<div class="box rad4 shadow2" id_zdarzenia="393227" uid="3739" id_lokalizacji="24173"  href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/24173/id_wystawienia,1373.html">
 				<div>
 					<h3><a href="http://www.nocowanie.pl/noclegi/poznan/pensjonaty/24173/id_wystawienia,1373.html" class="nazwa">Pensjonat Sarapokoje</a></h3>
@@ -1430,36 +1457,6 @@ $(window).load(function() { if (!$.cookie('cookie_klauzula')) { $('#cookie_klauz
 					</div>
 				</div>
 			</div>
-					<div class="box rad4 shadow2" id_zdarzenia="393179" uid="57539" id_lokalizacji="82093"  href="http://www.nocowanie.pl/noclegi/poznan/kwatery_i_pokoje/82093/">
-				<div>
-					<h3><a href="http://www.nocowanie.pl/noclegi/poznan/kwatery_i_pokoje/82093/" class="nazwa">Chojnacki Artur Wynajem Pokoi</a></h3>
-					<div class="zdjecie">
-						<div class="foto foto_m" style="background-image:url(//i.nocowanie.pl/m2/366/133-poznan-chojnacki-artur-wynajem-pokoi.jpg);"> </div>
-						<p class="czas"></p>
-					</div>
-					<div class="opis">
-						<h4 style="display: none;">Chojnacki Artur Wynajem Pokoi</h4>
-						<div class="rate_m rate_b" style=" display:none;">
-							<div>
-								<div></div>
-								<div style="width: 0%;"></div>
-								<div></div>
-							</div>
-						</div>
-												
-						<p class="zdarzenie">	
-							Nowa oferta - witamy w nocowanie.pl!
-						</p>
-						
-						<p class="komentarz">
-													Wynajmę 3 pokojowe mieszkanie w Poznaniu, o powierzchni 64 m2.Wyposażenie mieszkania:
-
-Kuchnia
-Kabina...
-												</p>
-					</div>
-				</div>
-			</div>
 			</div>
 </div>
 
@@ -1475,12 +1472,12 @@ Kabina...
 		if (shoutbox_reset)
 			localStorage.removeItem(skey);
 		else
-			$('#CpluginShoutbox_1372205753').html(localStorage.getItem(skey));
+			$('#CpluginShoutbox_1372256302').html(localStorage.getItem(skey));
 	}
 	
 	$(window).load(function(){
 		
-		$().shoutbox({ object_selector : '#CpluginShoutbox_1372205753', 
+		$().shoutbox({ object_selector : '#CpluginShoutbox_1372256302', 
 						pokaz_tylko : '',
 						id_portalu : [1], 
 						id_geografii : '381', 
@@ -1739,7 +1736,7 @@ Polecam.</span>
  (function () { 
 	var scr = document.createElement('script');	
 	scr.type = 'text/javascript'; 
-	scr.src = '/files/ajax/ajax_loader.js?p=1&g=381&rg=16&dg=1&k=0&lid=1&no_c=1&ts=1372175239.7283';
+	scr.src = '/files/ajax/ajax_loader.js?p=1&g=381&rg=16&dg=1&k=0&lid=1&no_c=1&ts=1372183086.8233';
 	$('HEAD').append(scr);
  })(); 
 </script>

@@ -18,7 +18,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
-import javafx.scene.layout.Pane;
 
 /**
  * FXML Controller class
@@ -43,7 +42,7 @@ public class MainWinController implements Initializable {
 
     private void getUrlToFile(String link, String file) {
         try {
-            String cmd = "perl C:\\Users\\Kolo\\Documents\\SIApp\\src\\javafxapplication1\\scripts\\getSite.pl " + link + " " + file;
+            String cmd = "perl src\\javafxapplication1\\scripts\\getSite.pl " + link + " " + file;
             Process proc = Runtime.getRuntime().exec(cmd);
             proc.waitFor();
             if (proc.exitValue() == 0) {
@@ -58,7 +57,7 @@ public class MainWinController implements Initializable {
 
     private void runScript(String site, String script, String arg) {
         try {
-            String cmd = "perl C:\\Users\\Kolo\\Documents\\SIApp\\src\\javafxapplication1\\scripts\\" + site + "\\" + script + ".pl C:\\Users\\Kolo\\Documents\\SIApp\\" + arg + ".txt";
+            String cmd = "perl src\\javafxapplication1\\scripts\\" + site + "\\" + script + ".pl " + arg + ".txt";
             Process proc = Runtime.getRuntime().exec(cmd);
             proc.waitFor();
             if (proc.exitValue() == 0) {
@@ -79,7 +78,7 @@ public class MainWinController implements Initializable {
         runScript("Nocowanie", "linki", result); //To zwróci linki
         //Przejdzie po wszystkich linkach i zdobędzie informacje o danym hotelu
         try {
-            File file = new File("C:\\Users\\Kolo\\Documents\\SIApp\\linki.txt");
+            File file = new File("linki.txt");
             BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
             int num = 0;
@@ -94,7 +93,7 @@ public class MainWinController implements Initializable {
                         result = "hotel";
                         getUrlToFile(data.Link, result);//To zwróci stronę z hotelem
                         runScript("Nocowanie", "hotel", result);//Zwróci info.txt
-                        File info = new File("C:\\Users\\Kolo\\Documents\\SIApp\\info.txt");
+                        File info = new File("info.txt");
                         BufferedReader infoBr = new BufferedReader(new FileReader(info));
                         String str;
                         int l = 0;
@@ -106,7 +105,7 @@ public class MainWinController implements Initializable {
                                 getUrlToFile(opinie, out); //To zwróci stronę z opiniami użytkowników
                                 runScript("Nocowanie", "opinie", out); //Zwróci opinions.txt
 
-                                File op = new File("C:\\Users\\Kolo\\Documents\\SIApp\\opinions.txt");
+                                File op = new File("opinions.txt");
                                 BufferedReader opBr = new BufferedReader(new FileReader(op));
                                 String str2;
                                 while ((str2 = opBr.readLine()) != null) {
@@ -149,7 +148,7 @@ public class MainWinController implements Initializable {
         hotelDataList = new ArrayList<HotelData>();
 
         ObservableList<String> items = hotelList.getItems();
-
+        
         items.add("...");
         items.add("...");
         items.add("...");
